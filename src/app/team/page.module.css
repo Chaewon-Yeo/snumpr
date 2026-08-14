@@ -159,11 +159,11 @@
 .imageWrapper {
   position: relative;
   width: 100%;
-  aspect-ratio: 1;
+  aspect-ratio: 3 / 4;
   overflow: hidden;
   margin-bottom: 1.2rem;
   background-color: var(--divider-gray);
-  border-radius: 9999px;
+  border-radius: 0.8rem;
 }
 
 .image {

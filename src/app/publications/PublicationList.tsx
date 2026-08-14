@@ -299,8 +299,8 @@ function formatAuthors(authors: string[]): string {
   return `${authors.slice(0, MAX_VISIBLE_AUTHORS).join(', ')}, et al.`;
 }
 
-const HIGHLIGHT_TERMS = ['ORAL', 'Best Paper Award'];
-const HIGHLIGHT_SPLIT = /(ORAL|Best Paper Award)/g;
+const HIGHLIGHT_TERMS = ['ORAL', 'Spotlight', 'Best Paper Award'];
+const HIGHLIGHT_SPLIT = /(ORAL|Spotlight|Best Paper Award)/g;
 
 function renderJournalsInfo(text: string): React.ReactNode {
   return text.split(HIGHLIGHT_SPLIT).map((part, i) =>

@@ -1,5 +1,64 @@
 [
   {
+    "title": "ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for LALM-as-a-Judge",
+    "authors": [
+      "Jisu Jeon", "Seungyeon Jwa", "Joosung Lee", "Jinhyeon Kim", "Woojin Chung", "Hwiyeol Jo", "Jeonghoon Kim", "Jonghyun Choi", "Soyoon Kim"
+    ],
+    "journalsInfo": "Interspeech 2026 (To appear)",
+    "thumbnailUrl": "/images/publications/arxiv2606-audiobench.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2606.24648"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/jsujeon/ParaPairAudioBench"
+      }
+    ],
+    "researchTopic": [
+      "AI"
+    ],
+    "year": "Preprint",
+    "publicationType": [
+      "Conference"
+    ],
+    "recognized": "unrecognized"
+  },
+  {
+    "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
+    "authors": [
+      "Taewook Kang*", 
+      "Taeheon Kim*", 
+      "Donghyun Shin", 
+      "Jonghyun Choi"
+    ],
+    "journalsInfo": "ECCV 2026",
+    "thumbnailUrl": "/images/publications/arxiv2607-dart.png",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/abs/2607.00666"
+      },
+      {
+        "label": "Project Page",
+        "url": "https://twkang43.github.io/projects/dart/"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/snumprlab/dart"
+      }
+    ],
+    "researchTopic": [
+      "AI"
+    ],
+    "year": "Preprint",
+    "publicationType": [
+      "Conference"
+    ],
+    "recognized": "unrecognized"
+  },
+  {
     "title": "Modular Memory is the Key to Continual Learning Agents",
     "authors": [
       "Vaggelis Dorovatas",
@@ -54,32 +113,41 @@
       "Seongwon Cho",
       "Jonghyun Choi"
     ],
-    "journalsInfo": "arXiv 2602",
+    "journalsInfo": "ICML 2026 - Spotlight (Top 2.2%)",
     "thumbnailUrl": "/images/publications/arxiv2602-scale.jpg",
     "links": [
       {
         "label": "PDF",
         "url": "https://arxiv.org/pdf/2602.04208"
+      },
+      {
+        "label": "Project Page",
+        "url": "https://dcahn12.github.io/projects/scale/"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/snumprlab/scale"
       }
     ],
     "researchTopic": [
       "Vision"
     ],
-    "year": "Preprint",
+    "year": "2026",
     "publicationType": [
       "Journal"
     ],
-    "recognized": "unrecognized"
+    "recognized": "recognized"
   },
   {
     "title": "Risk-adaptive Activation Steering for Safe Multimodal Large Language Models",
     "authors": [
       "Jonghyun Park",
       "Minhyuk Seo",
+      "Chaewon Yeo",
       "Jonghyun Choi"
     ],
-    "journalsInfo": "arXiv 2510 / CIKM 2025 Workshop of HCAI - ORAL & Best Paper Award",
-    "thumbnailUrl": "/images/publications/arxiv2510-llmsafety.jpg",
+    "journalsInfo": "ECCV 2026 / CIKM 2025 Workshop of HCAI - ORAL & Best Paper Award",
+    "thumbnailUrl": "/images/publications/arxiv2510-moras.png",
     "links": [
       {
         "label": "PDF",
@@ -92,6 +160,10 @@
       {
         "label": "Workshop Page",
         "url": "https://xai.kaist.ac.kr/Workshop/hcai2025/"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/snumprlab/moras"
       }
     ],
     "researchTopic": [
@@ -99,7 +171,8 @@
     ],
     "year": "Preprint",
     "publicationType": [
-      "Workshop"
+      "Workshop",
+      "Conference"
     ],
     "recognized": "recognized"
   },
@@ -150,12 +223,12 @@
       "Tinne Tuytelaars",
       "Jonghyun Choi"
     ],
-    "journalsInfo": "ACL 2026 - Main (To appear)",
+    "journalsInfo": "ACL 2026 - Main",
     "thumbnailUrl": "/images/publications/arxiv2506-oasis.jpg",
     "links": [
       {
-        "label": "PDF-arxiv",
-        "url": "https://arxiv.org/pdf/2506.02011"
+        "label": "PDF",
+        "url": "https://aclanthology.org/2026.acl-long.158.pdf"
       }
     ],
     "researchTopic": [
@@ -174,7 +247,7 @@
       "Mohammad Mostafavi",
       "Jonghyun Choi"
     ],
-    "journalsInfo": "CVPR 2026 - Findings (To Appear)",
+    "journalsInfo": "CVPR 2026 - Findings",
     "thumbnailUrl": "/images/publications/cvprf26-falcon.jpg",
     "links": [],
     "researchTopic": [
@@ -193,7 +266,7 @@
       "Mohammad Mostafavi",
       "Jonghyun Choi"
     ],
-    "journalsInfo": "CVPR 2026 (To Appear)",
+    "journalsInfo": "CVPR 2026",
     "thumbnailUrl": "/images/publications/cvpr26-dbmsolver.jpg",
     "links": [],
     "researchTopic": [
@@ -215,7 +288,7 @@
       "San Kim",
       "Jonghyun Choi"
     ],
-    "journalsInfo": "ICRA 2026 (To Appear)",
+    "journalsInfo": "ICRA 2026",
     "thumbnailUrl": "/images/publications/icra26-binder.jpg",
     "links": [
       {
@@ -246,7 +319,7 @@
       "Jaesik Park",
       "Kyungsu Kim"
     ],
-    "journalsInfo": "ICLR 2026 - ORAL (To Appear)",
+    "journalsInfo": "ICLR 2026 - ORAL",
     "thumbnailUrl": "/images/publications/arxiv2503-trace.jpg",
     "links": [
       {
@@ -272,7 +345,7 @@
       "Jonghyun Choi",
       "Tinne Tuytelaars"
     ],
-    "journalsInfo": "ICLR 2026 (To Appear) / AAAI 2026 Workshop of PerFM - ORAL & Best Paper Award",
+    "journalsInfo": "ICLR 2026 / AAAI 2026 Workshop of PerFM - ORAL & Best Paper Award",
     "thumbnailUrl": "/images/publications/arxiv2506-nacae.jpg",
     "links": [
       {
@@ -298,7 +371,7 @@
       "Dongyeop Kang",
       "Jonghyun Choi"
     ],
-    "journalsInfo": "EACL 2026 (Short) - ORAL",
+    "journalsInfo": "EACL 2026 (Short) - ORAL / ACL 2026 Eval Eval Workshop - ORAL",
     "thumbnailUrl": "/images/publications/eacl26-exp-judge.jpg",
     "links": [
       {
@@ -308,14 +381,6 @@
       {
         "label": "An Extended Version (arXiv)",
         "url": "https://arxiv.org/pdf/2512.06751"
-      },
-      {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
-      },
-      {
-        "label": "Project Page",
-        "url": "https://bhkim94.github.io/projects/CL-ALFRED/"
       },
       {
         "label": "Code",

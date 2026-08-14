@@ -31,7 +31,7 @@
       {
         "name": "Byeonghwi Kim",
         "position": "Ph.D. Student",
-        "image": "/images/people/byeonghwi.jpg",
+        "image": "/images/people/byeonghwikim.jpg",
         "website": "https://bhkim94.github.io/",
         "email": "byeonghwikim@snu.ac.kr",
         "github": "http://github.com/bhkim94"
@@ -55,7 +55,7 @@
       {
         "name": "Minjae Lee",
         "position": "MS/Ph.D. Student",
-        "image": "/images/people/minjaelee.png",
+        "image": "/images/people/minjaelee.jpg",
         "website": "https://98minjae.github.io/",
         "email": "mj1020@snu.ac.kr",
         "github": "http://github.com/98minjae"
@@ -87,7 +87,7 @@
       {
         "name": "Hyeonbeom Choi",
         "position": "MS/Ph.D. Student",
-        "image": "/images/people/hyeonbeomchoi.jpeg",
+        "image": "/images/people/hyeonbeomchoi_square.png",
         "website": "https://hyeonbeomchoi.github.io/",
         "email": "gusqja1228@snu.ac.kr",
         "github": "http://github.com/HyeonbeomChoi"
@@ -155,6 +155,30 @@
         "website": null,
         "email": "steve0221@snu.ac.kr",
         "github": "http://github.com/nick11967"
+      },
+      {
+        "name": "Jaeweok Heo",
+        "position": "MS/Ph.D. Student",
+        "image": "/images/people/jaeweokheo.jpg",
+        "website": null,
+        "email": "uesuckbabo@snu.ac.kr",
+        "github": "http://github.com/J13947"
+      },
+      {
+        "name": "Chaewon Yeo",
+        "position": "MS/Ph.D. Student",
+        "image": "/images/people/chaewonyeo.jpg",
+        "website": null,
+        "email": "chaewon.yeo@snu.ac.kr",
+        "github": "http://github.com/Chaewon-Yeo"
+      },
+      {
+        "name": "Hyunjun Kim",
+        "position": "MS/Ph.D. Student",
+        "image": "/images/people/hyunjunkim.jpg",
+        "website": "https://noisland.ai/hyunjun/",
+        "email": "doctor3390@snu.ac.kr",
+        "github": "http://github.com/attractorlab"
       }
     ],
     "undergraduate_interns": [

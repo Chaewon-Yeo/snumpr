@@ -9,7 +9,7 @@
     "links": [
       {
         "label": "PDF",
-        "url": "https://arxiv.org/abs/2606.24648"
+        "url": "https://arxiv.org/pdf/2606.24648"
       },
       {
         "label": "Code",
@@ -40,7 +40,7 @@
     "links": [
       {
         "label": "PDF",
-        "url": "https://arxiv.org/abs/2607.00666"
+        "url": "https://arxiv.org/pdf/2607.00666"
       },
       {
         "label": "Project Page",
@@ -204,18 +204,6 @@
       {
         "label": "PDF",
         "url": "https://arxiv.org/pdf/2404.00285"
-      },
-      {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
-      },
-      {
-        "label": "Project Page",
-        "url": "https://bhkim94.github.io/projects/CL-ALFRED/"
-      },
-      {
-        "label": "Code",
-        "url": "https://github.com/yonseivnl/sdp"
       }
     ],
     "researchTopic": [
@@ -322,7 +310,7 @@
       },
       {
         "label": "Project Page",
-        "url": "https://seongwon980.github.io/BINDER/"
+        "url": "https://seongwon980.github.io/projects/binder/"
       }
     ],
     "researchTopic": [
@@ -443,19 +431,7 @@
     "links": [
       {
         "label": "PDF (arXiv)",
-        "url": "https://www.arxiv.org/pdf/2512.08979/"
-      },
-      {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
-      },
-      {
-        "label": "Project Page",
-        "url": "https://bhkim94.github.io/projects/CL-ALFRED/"
-      },
-      {
-        "label": "Code",
-        "url": "https://github.com/yonseivnl/sdp"
+        "url": "https://www.arxiv.org/pdf/2512.08979"
       }
     ],
     "researchTopic": [
@@ -483,18 +459,6 @@
       {
         "label": "PDF",
         "url": "https://arxiv.org/pdf/2405.17878"
-      },
-      {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
-      },
-      {
-        "label": "Project Page",
-        "url": "https://bhkim94.github.io/projects/CL-ALFRED/"
-      },
-      {
-        "label": "Code",
-        "url": "https://github.com/yonseivnl/sdp"
       }
     ],
     "researchTopic": [
@@ -723,10 +687,6 @@
         "url": "https://openreview.net/pdf?id=dOAkHmsjRX"
       },
       {
-        "label": "Project Page",
-        "url": "https://bhkim94.github.io/projects/CL-ALFRED/"
-      },
-      {
         "label": "Code",
         "url": "https://github.com/snumprlab/budgeted-cl"
       }
@@ -754,7 +714,7 @@
     "links": [
       {
         "label": "PDF",
-        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/32455/34610"
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/32455"
       },
       {
         "label": "Project Page",
@@ -832,10 +792,6 @@
       {
         "label": "PDF",
         "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33761/35916"
-      },
-      {
-        "label": "Code",
-        "url": "https://github.com/snumprlab/isr-dpo"
       }
     ],
     "researchTopic": [
@@ -863,14 +819,6 @@
       {
         "label": "PDF",
         "url": "https://openreview.net/pdf?id=cq2uB30uBM"
-      },
-      {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
-      },
-      {
-        "label": "Project Page",
-        "url": "https://twoongg.github.io/projects/realfred/"
       },
       {
         "label": "Code",
@@ -904,10 +852,6 @@
       {
         "label": "PDF",
         "url": "https://arxiv.org/pdf/2407.18550"
-      },
-      {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
       },
       {
         "label": "Project Page",
@@ -954,14 +898,6 @@
         "url": "https://arxiv.org/pdf/2406.12233"
       },
       {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
-      },
-      {
-        "label": "Project Page",
-        "url": "https://bhkim94.github.io/projects/CL-ALFRED/"
-      },
-      {
         "label": "Code",
         "url": "https://github.com/snumprlab/sync-vsr"
       }
@@ -992,10 +928,6 @@
       {
         "label": "PDF",
         "url": "https://aclanthology.org/2024.acl-long.52.pdf"
-      },
-      {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
       },
       {
         "label": "Project Page",
@@ -1040,18 +972,6 @@
       {
         "label": "PDF",
         "url": "https://arxiv.org/pdf/2406.15635"
-      },
-      {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
-      },
-      {
-        "label": "Project Page",
-        "url": "https://bhkim94.github.io/projects/CL-ALFRED/"
-      },
-      {
-        "label": "Code",
-        "url": "https://github.com/yonseivnl/sdp"
       }
     ],
     "researchTopic": [
@@ -1087,14 +1007,6 @@
         "url": "https://arxiv.org/pdf/2404.01628"
       },
       {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
-      },
-      {
-        "label": "Project Page",
-        "url": "https://bhkim94.github.io/projects/CL-ALFRED/"
-      },
-      {
         "label": "Code",
         "url": "https://github.com/snumprlab/earl"
       }
@@ -1125,16 +1037,8 @@
         "url": "https://openreview.net/pdf?id=7M0EzjugaN"
       },
       {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
-      },
-      {
         "label": "Project Page",
         "url": "https://bhkim94.github.io/projects/CL-ALFRED/"
-      },
-      {
-        "label": "Code",
-        "url": "https://github.com/yonseivnl/sdp"
       }
     ],
     "researchTopic": [
@@ -1166,18 +1070,6 @@
       {
         "label": "PDF",
         "url": "https://openreview.net/pdf?id=Cf4FJGmHRQ"
-      },
-      {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
-      },
-      {
-        "label": "Project Page",
-        "url": "https://bhkim94.github.io/projects/CL-ALFRED/"
-      },
-      {
-        "label": "Code",
-        "url": "https://github.com/yonseivnl/sdp"
       }
     ],
     "researchTopic": [
@@ -1210,18 +1102,6 @@
       {
         "label": "PDF",
         "url": "https://arxiv.org/pdf/2312.10274v1.pdf"
-      },
-      {
-        "label": "Supp",
-        "url": "https://openaccess.thecvf.com/content/ICCV2023/supplemental/Kim_Context-Aware_Planning_and_ICCV_2023_supplemental.zip"
-      },
-      {
-        "label": "Project Page",
-        "url": "https://bhkim94.github.io/projects/CAPEAM/"
-      },
-      {
-        "label": "Code",
-        "url": "https://github.com/yonseivnl/sdp"
       }
     ],
     "researchTopic": [
@@ -1299,7 +1179,7 @@
       },
       {
         "label": "Project Page",
-        "url": "https://dcahn12.github.io/projects/CMOTA/"
+        "url": "https://dcahn12.github.io/projects/cmota-seq/"
       },
       {
         "label": "Code",
@@ -1373,7 +1253,7 @@
         "url": "https://arxiv.org/pdf/2308.06053.pdf"
       },
       {
-        "label": "(in ACM)",
+        "label": "PDF (in ACM)",
         "url": "https://dl.acm.org/doi/10.1145/3570361.3613297"
       }
     ],
@@ -1525,7 +1405,7 @@
     "links": [
       {
         "label": "PDF",
-        "url": "https://bmvc2022.mpi-inf.mpg.de/0300.pdf"
+        "url": "https://pdf-files.bmvc2022.org/0300.pdf"
       },
       {
         "label": "Poster",
@@ -1800,7 +1680,12 @@
     ],
     "journalsInfo": "EMNLP 2021 - ORAL",
     "thumbnailUrl": "/images/publications/emnlp2021_iconary.jpg",
-    "links": [],
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2112.00800"
+      }
+    ],
     "researchTopic": [
       "Text",
       "Vision-Language & Multimodal Learning"
@@ -1967,14 +1852,6 @@
       {
         "label": "Video",
         "url": "https://www.youtube.com/watch?v=ZMFAseI1DM8"
-      },
-      {
-        "label": "Talk",
-        "url": "https://youtu.be/Jl1NeziAHFY?start=1h23m9s&end=1h27m16s"
-      },
-      {
-        "label": "Talk",
-        "url": "https://youtu.be/Jl1NeziAHFY?start=4996&end=5236"
       }
     ],
     "researchTopic": [
@@ -2065,22 +1942,6 @@
       {
         "label": "Supp-Mat.",
         "url": "https://openaccess.thecvf.com/content_CVPR_2020/supplemental/I._Learning_to_Super_CVPR_2020_supplemental.zip"
-      },
-      {
-        "label": "Code (in prep.)",
-        "url": "https://github.com/gistvision/e2sri"
-      },
-      {
-        "label": "Video",
-        "url": "https://www.youtube.com/watch?v=ZMFAseI1DM8"
-      },
-      {
-        "label": "Talk",
-        "url": "https://youtu.be/Jl1NeziAHFY?start=1h23m9s&end=1h27m16s"
-      },
-      {
-        "label": "Talk",
-        "url": "https://youtu.be/Jl1NeziAHFY?start=4996&end=5236"
       }
     ],
     "researchTopic": [
@@ -2151,14 +2012,6 @@
       {
         "label": "Video",
         "url": "https://www.youtube.com/watch?v=ZMFAseI1DM8"
-      },
-      {
-        "label": "Talk",
-        "url": "https://youtu.be/Jl1NeziAHFY?start=1h23m9s&end=1h27m16s"
-      },
-      {
-        "label": "Talk",
-        "url": "https://youtu.be/Jl1NeziAHFY?start=4996&end=5236"
       }
     ],
     "researchTopic": [
@@ -2186,14 +2039,6 @@
       {
         "label": "PDF",
         "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9133417"
-      },
-      {
-        "label": "Talk",
-        "url": "https://youtu.be/Jl1NeziAHFY?start=1h23m9s&end=1h27m16s"
-      },
-      {
-        "label": "Talk",
-        "url": "https://youtu.be/Jl1NeziAHFY?start=4996&end=5236"
       }
     ],
     "researchTopic": [
@@ -2220,18 +2065,6 @@
       {
         "label": "PDF",
         "url": "https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf"
-      },
-      {
-        "label": "Project Page",
-        "url": "https://allenai.github.io/one-shot-part-labeling/"
-      },
-      {
-        "label": "Talk",
-        "url": "https://youtu.be/Jl1NeziAHFY?start=1h23m9s&end=1h27m16s"
-      },
-      {
-        "label": "Talk",
-        "url": "https://youtu.be/Jl1NeziAHFY?start=4996&end=5236"
       }
     ],
     "researchTopic": [

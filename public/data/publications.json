@@ -268,7 +268,12 @@
     ],
     "journalsInfo": "CVPR 2026",
     "thumbnailUrl": "/images/publications/cvpr26-dbmsolver.jpg",
-    "links": [],
+    "links": [
+      {
+      "label": "PDF",
+        "url": "https://arxiv.org/pdf/2605.05889"
+      }
+    ],
     "researchTopic": [
       "Vision"
     ],

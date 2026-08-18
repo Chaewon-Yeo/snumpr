@@ -31,7 +31,7 @@
       {
         "name": "Byeonghwi Kim",
         "position": "Ph.D. Student",
-        "image": "/images/people/byeonghwikim.jpg",
+        "image": "/images/people/byeonghwikim_crop.jpeg",
         "website": "https://bhkim94.github.io/",
         "email": "byeonghwikim@snu.ac.kr",
         "github": "http://github.com/bhkim94"
@@ -39,7 +39,7 @@
       {
         "name": "Daechul Ahn",
         "position": "Ph.D. Student",
-        "image": "/images/people/daechulahn.jpg",
+        "image": "/images/people/daechulahn_crop.jpeg",
         "website": "https://dcahn12.github.io",
         "email": "daechulahn@snu.ac.kr",
         "github": "http://github.com/dcahn12"
@@ -55,7 +55,7 @@
       {
         "name": "Minjae Lee",
         "position": "MS/Ph.D. Student",
-        "image": "/images/people/minjaelee.jpg",
+        "image": "/images/people/minjaelee_crop.jpeg",
         "website": "https://98minjae.github.io/",
         "email": "mj1020@snu.ac.kr",
         "github": "http://github.com/98minjae"
@@ -71,7 +71,7 @@
       {
         "name": "Taeheon Kim",
         "position": "MS/Ph.D. Student",
-        "image": "/images/people/taeheonkim.jpg",
+        "image": "/images/people/taeheonkim_crop.jpeg",
         "website": "https://ta3h30nk1m.github.io/",
         "email": "thkim0305@snu.ac.kr",
         "github": "http://github.com/ta3h30nk1m"
@@ -87,7 +87,7 @@
       {
         "name": "Hyeonbeom Choi",
         "position": "MS/Ph.D. Student",
-        "image": "/images/people/hyeonbeomchoi_square.png",
+        "image": "/images/people/hyeonbeomchoi_square.jpeg",
         "website": "https://hyeonbeomchoi.github.io/",
         "email": "gusqja1228@snu.ac.kr",
         "github": "http://github.com/HyeonbeomChoi"
@@ -95,7 +95,7 @@
       {
         "name": "Jonghyun Park",
         "position": "MS/Ph.D. Student",
-        "image": "/images/people/jonghyunpark.jpg",
+        "image": "/images/people/jonghyunpark_crop.jpeg",
         "website": "https://jonghyun813.github.io/profile/",
         "email": "jonghyun.park@snu.ac.kr",
         "github": "http://github.com/jonghyun813"
@@ -119,8 +119,8 @@
       {
         "name": "Youhan Lee",
         "position": "MS Student",
-        "image": "/images/people/youhanlee.jpg",
-        "website": null,
+        "image": "/images/people/youhanlee_crop.jpeg",
+        "website": "https://youhanlee.github.io/",
         "email": "sts08104@snu.ac.kr",
         "github": "http://github.com/youhanLee"
       },
@@ -135,7 +135,7 @@
       {
         "name": "Taewook Kang",
         "position": "MS/Ph.D. Student",
-        "image": "/images/people/taewookkang.jpg",
+        "image": "/images/people/taewookkang.jpeg",
         "website": "https://twkang43.github.io",
         "email": "tw.kang@snu.ac.kr",
         "github": "http://github.com/twkang43"

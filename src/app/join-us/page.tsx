@@ -1,9 +1,7 @@
 import Image from 'next/image';
 import Title from '@/components/Title';
 import FadeIn from '@/components/FadeIn';
-import links from '../../../public/data/links.json';
 import styles from './page.module.css';
-import { FormIcon } from '@/components/Icons';
 
 export default function JoinUsPage() {
   return (
@@ -179,6 +177,7 @@ We are buying more!`}
             {`We are a team of researchers and engineers who are serious in machine learning and computer vision.
 Here are our answers to some of frequently asked questions regarding joining our group.`}
           </p>
+          {/* Google Form link is hidden until an application form is available.
           <a
             href={links.googleForm}
             className={styles.linkButton}
@@ -187,7 +186,7 @@ Here are our answers to some of frequently asked questions regarding joining our
           >
             <FormIcon className={styles.formIcon} />
             Google Form Link
-          </a>
+          </a> */}
         </section>
       </FadeIn>
     </main>

@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import styles from './Footer.module.css';
-import links from '../../public/data/links.json';
 
 export default function Footer() {
   return (
@@ -37,6 +36,7 @@ export default function Footer() {
             <p className={styles.infoText}>ASRI (133) 411/412</p>
           </div>
         </div>
+        {/* SNS icons are hidden until the lab's accounts are available.
         <div className={styles.snsRow}>
           {[
             { name: 'x', src: '/icons/sns/x.svg', href: links.sns.x },
@@ -55,7 +55,7 @@ export default function Footer() {
               />
             </a>
           ))}
-        </div>
+        </div> */}
       </div>
     </footer>
   );

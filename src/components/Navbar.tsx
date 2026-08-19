@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import styles from './Navbar.module.css';
 import { GithubIcon, HuggingFaceIcon } from './Icons';
 import { usePathname } from 'next/navigation';
@@ -18,7 +19,13 @@ export default function Navbar() {
     <header className={styles.header}>
       <div className={styles.topRow}>
         <Link href="/" className={styles.logoWrapper} aria-label="snumpr lab">
-          <span className={styles.logo} role="img" aria-hidden="true" />
+          <Image
+            src="/logo.svg"
+            alt="snumpr lab"
+            className={styles.logo}
+            width={674}
+            height={64}
+          />
         </Link>
 
         {/* Hamburger Button - Only visible on mobile via CSS */}

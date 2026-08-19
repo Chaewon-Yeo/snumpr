@@ -1,19 +1,19 @@
 [
   {
     "id": "1",
-    "title": "Four Papers at CVPR 2026",
-    "details": "Four papers from our lab will be presented at CVPR 2026 in Nashville.",
-    "imageUrl": "/images/news/news1.jpg"
+    "title": "Two Papers Accepted at ECCV 2026",
+    "details": "Two papers from our lab will be presented at ECCV 2026 in Malmö, Sweden.",
+    "imageUrl": "/images/news/eccvaccepted2026.jpg"
   },
   {
     "id": "2",
     "title": "Best Paper Award at CIKM 2025 workshop of HAI",
-    "details": "Jonghyun Park receives best paper award at CIKM 2025 workshop of HAI!.",
-    "imageUrl": "/images/news/news2.jpg"
+    "details": "Jonghyun Park received the Best Paper Award at CIKM 2025 workshop of HAI!",
+    "imageUrl": "/images/news/jonghyuncikm2025.jpeg"
   },
   {
     "id": "3",
-    "title": "Embodied AI Summer Workshop",
+    "title": "ICML AI Summer Workshop",
     "details": "A week-long workshop bringing together embodied AI researchers across Korea.",
     "imageUrl": "/images/news/news3.jpg"
   },

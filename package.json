@@ -11,7 +11,7 @@
     "format:chk": "npm run format:chk:prettier && npm run lint:chk"
   },
   "dependencies": {
-    "next": "16.1.6",
+    "next": "^16.2.4",
     "nuqs": "^2.8.8",
     "react": "19.2.3",
     "react-dom": "19.2.3"

@@ -25,7 +25,9 @@ interface Alumnus {
 
 const sections: { key: keyof typeof peopleData.members; title: string }[] = [
   { key: 'faculty_and_researchers', title: 'Faculty & Researchers' },
-  { key: 'graduate_students', title: 'Graduate Students' },
+  // { key: 'graduate_students', title: 'Graduate Students' },
+  { key: 'phd_students', title: 'Ph.D. Students' },
+  { key: 'masters_students', title: "Master's Students" },
   { key: 'undergraduate_interns', title: 'Undergraduate Interns' },
   { key: 'robots', title: 'Robots' },
   { key: 'administrative_staff', title: 'Administrative Staff' },
@@ -54,7 +56,14 @@ function MemberCard({ member }: { member: Member }) {
         />
       </div>
       <span className={styles.name}>{member.name}</span>
-      <span className={styles.position}>{member.position}</span>
+      {/*<span className={styles.position}>{member.position}</span>*/}
+      {member.position && (
+        <span className={styles.position}>
+          {member.position.split('\n').map((line, i) => (
+            <span key={i}>{line}<br /></span>
+          ))}
+        </span>
+      )}
     </>
   );
 
@@ -94,16 +103,18 @@ function MemberCard({ member }: { member: Member }) {
 }
 
 function AlumniSection({
+  id,
   title,
   subtitle,
   members,
 }: {
+  id?: string;
   title: string;
   subtitle?: string;
   members: Alumnus[];
 }) {
   return (
-    <section className={styles.alumniSection}>
+    <section id={id} className={styles.alumniSection}>
       <div className={styles.alumniHeader}>
         <div>
           <h2 className={styles.alumniTitle}>{title}</h2>
@@ -174,6 +185,10 @@ function SectionAnchors() {
             {title}
           </a>
         ))}
+        {/* Alumni 링크 따로 추가 */}
+        <a href="#alumni" className={styles.anchorLink} onClick={(e) => handleScroll(e, 'alumni')}>
+          Alumni
+        </a>        
       </div>
     </div>
   );
@@ -211,15 +226,25 @@ export default function TeamPage() {
           })}
           <FadeIn>
             <AlumniSection
+              id="alumni"
               title="Alumni"
               members={peopleData.members.alumni_graduate as Alumnus[]}
             />
           </FadeIn>
           <FadeIn>
             <AlumniSection
+              id="alumni_ug_intern"
               title="Alumni"
-              subtitle="(Undergraduate Interns)"
-              members={peopleData.members.alumni_undergraduate as Alumnus[]}
+              subtitle="Undergrad Interns"
+              members={peopleData.members.alumni_undergrad as Alumnus[]}
+            />
+          </FadeIn>
+          <FadeIn>
+            <AlumniSection
+              id="alumni_ug_intl_intern"
+              title="Alumni"
+              subtitle="Int'l UG Interns"
+              members={peopleData.members.alumni_intl_undergrad as Alumnus[]}
             />
           </FadeIn>
         </div>

@@ -7,20 +7,14 @@
   },
   {
     "id": "2",
-    "title": "Best Paper Award at CIKM 2025 workshop of HAI",
-    "details": "Jonghyun Park received the Best Paper Award at CIKM 2025 workshop of HAI!",
-    "imageUrl": "/images/news/jonghyuncikm2025_protected.jpeg"
+    "title": "Best Paper Award at AAAI 2026 Workshop of PerFM",
+    "details": "Minhyuk Seo & Taeheon Kim received the Best Paper Award at AAAI 2026 Workshop of PerFM!",
+    "imageUrl": "/images/news/co-lora.jpg"
   },
   {
     "id": "3",
-    "title": "ICML AI Summer Workshop",
-    "details": "A week-long workshop bringing together embodied AI researchers across Korea.",
-    "imageUrl": "/images/news/news3.jpg"
-  },
-  {
-    "id": "4",
-    "title": "Welcoming Spring 2026 Students",
-    "details": "Five new MS and PhD students are joining MPR Lab this spring.",
-    "imageUrl": "/images/news/news4.jpg"
+    "title": "Best Paper Award at CIKM 2025 workshop of HAI",
+    "details": "Jonghyun Park received the Best Paper Award at CIKM 2025 workshop of HAI!",
+    "imageUrl": "/images/news/moras.jpg"
   }
 ]

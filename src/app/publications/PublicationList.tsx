@@ -333,7 +333,9 @@ function PublicationItemView({ pub }: { pub: PublicationItem }) {
   const hasMultipleMedals = medalCount > 1;
   const medalSource = pub.journalsInfo.includes('Spotlight')
     ? '/icons/publication/medal2.png'
-    : '/icons/publication/medal1.png';
+    : pub.recognition.includes('Award winning')
+      ? '/icons/publication/medal3.png'
+      : '/icons/publication/medal5.png';
   const medalLabel = pub.journalsInfo.includes('Spotlight')
     ? 'Spotlight'
     : pub.recognition.includes('Award winning')

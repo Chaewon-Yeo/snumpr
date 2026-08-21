@@ -133,7 +133,7 @@ snumpr/
   ],
   "researchTopic": ["AI"],
   "year": "2026",
-  "publicationType": ["Conference"],
+  "modality": ["Vision"],
   "recognized": "ORAL"
 }
 ```
@@ -144,7 +144,7 @@ snumpr/
 | `links[].label`   | **PDF / Code / Data / Page / Supp / Media / Slides** 권장 (`theme.css`에 색이 매핑되어 있습니다) |
 | `researchTopic`   | 배열. 예: `["AI"]`, `["Vision"]`                                                                 |
 | `year`            | `"2026"`, `"2025"`, `"Preprint"` 등                                                              |
-| `publicationType` | `["Conference"]` 또는 `["Journal"]` 등                                                           |
+| `modality`        | 배열. `Vision`, `Language`, `Speech` 중 하나 이상                                                  |
 | `recognized`      | `""`(없음) 또는 `"ORAL"`, `"Best Paper"` 같은 강조 라벨                                          |
 
 논문 PDF를 사이트에 직접 호스팅하려면 `public/research-pdfs/`에 파일을 넣고 `links`에서 `"/research-pdfs/<파일명>.pdf"`로 참조하시면 됩니다.

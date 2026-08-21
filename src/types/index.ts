@@ -41,6 +41,6 @@ export interface PublicationItem {
   links: { label: string; url: string }[];
   researchTopic: string[];
   year: string;
-  publicationType: string[];
+  modality: string[];
   recognized: string;
 }

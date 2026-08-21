@@ -2,7 +2,15 @@
   {
     "title": "ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for LALM-as-a-Judge",
     "authors": [
-      "Jisu Jeon", "Seungyeon Jwa", "Joosung Lee", "Jinhyeon Kim", "Woojin Chung", "Hwiyeol Jo", "Jeonghoon Kim", "Jonghyun Choi", "Soyoon Kim"
+      "Jisu Jeon",
+      "Seungyeon Jwa",
+      "Joosung Lee",
+      "Jinhyeon Kim",
+      "Woojin Chung",
+      "Hwiyeol Jo",
+      "Jeonghoon Kim",
+      "Jonghyun Choi",
+      "Soyoon Kim"
     ],
     "journalsInfo": "Interspeech 2026 (To appear)",
     "thumbnailUrl": "/images/publications/arxiv2606-audiobench.png",
@@ -21,17 +29,17 @@
       "Embodied & Multimodal AI"
     ],
     "year": "Preprint",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Speech"
+    ]
   },
   {
     "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
     "authors": [
-      "Taewook Kang*", 
-      "Taeheon Kim*", 
-      "Donghyun Shin", 
+      "Taewook Kang*",
+      "Taeheon Kim*",
+      "Donghyun Shin",
       "Jonghyun Choi"
     ],
     "journalsInfo": "ECCV 2026",
@@ -55,10 +63,11 @@
       "Efficient & Adaptive AI"
     ],
     "year": "Preprint",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Modular Memory is the Key to Continual Learning Agents",
@@ -101,10 +110,10 @@
       "Embodied & Multimodal AI"
     ],
     "year": "Preprint",
-    "publicationType": [
-      "Journal"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models",
@@ -137,10 +146,11 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2026",
-    "publicationType": [
-      "Journal"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Risk-adaptive Activation Steering for Safe Multimodal Large Language Models",
@@ -175,11 +185,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "Preprint",
-    "publicationType": [
-      "Workshop",
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Long-Tailed Recognition on Binary Networks by Calibrating A Pre-trained Model",
@@ -203,10 +213,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "Preprint",
-    "publicationType": [
-      "Journal"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "OASIS: Online Sample Selection for Continual Visual Instruction Tuning",
@@ -230,10 +240,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2026",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "FALCON: Fast Adaptive Lightweight Computation of Intensities and Events for Depth Estimation",
@@ -250,10 +261,10 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2026",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation",
@@ -266,7 +277,7 @@
     "thumbnailUrl": "/images/publications/cvpr26-dbmsolver.jpg",
     "links": [
       {
-      "label": "PDF",
+        "label": "PDF",
         "url": "https://arxiv.org/pdf/2605.05889"
       }
     ],
@@ -274,10 +285,10 @@
       "Generative & Computational Imaging"
     ],
     "year": "2026",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands",
@@ -305,10 +316,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2026",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "TRACE: Your Diffusion Model is Secretly an Instance Edge Detector",
@@ -332,10 +344,10 @@
       "Generative & Computational Imaging"
     ],
     "year": "2026",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Co-LoRA: Collaborative Model Personalization on Heterogeneous Multi-Modal Clients",
@@ -359,10 +371,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2026",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Becoming Experienced Judges: Selective Test-Time Learning for Evaluators",
@@ -394,10 +407,11 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2026",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "What Happens When: Learning Temporal Order of Events in Videos",
@@ -421,10 +435,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "2026",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "An Information Theoretic Evaluation Metric for Strong Unlearning",
@@ -447,10 +461,10 @@
       "Foundation Models & Alignment"
     ],
     "year": "2026",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "GenOL: Generating Diverse Examples for Name-only Online Learning",
@@ -475,10 +489,10 @@
       "Continual Learning"
     ],
     "year": "2025",
-    "publicationType": [
-      "Journal"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "DialNav: Multi-turn Dialog Navigation with a Remote Guide",
@@ -513,10 +527,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2025",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Online Generic Event Boundary Detection",
@@ -543,10 +558,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "2025",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning",
@@ -579,10 +594,11 @@
       "Foundation Models & Alignment"
     ],
     "year": "2025",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Representation Bending for Large Language Model Safety",
@@ -614,10 +630,11 @@
       "Foundation Models & Alignment"
     ],
     "year": "2025",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Large Language Models Still Exhibit Bias in Long Text",
@@ -639,10 +656,11 @@
       "Foundation Models & Alignment"
     ],
     "year": "2025",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Budgeted Online Continual Learning by Adaptive Layer Freezing and Frequency-based Sampling",
@@ -668,10 +686,10 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2025",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Multi-Modal Grounded Planning and Efficient Replanning For Learning Embodied Agents with A Few Examples",
@@ -700,10 +718,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2025",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "ISR-DPO: Aligning Large Multimodal Models for Videos by Iterative Self-Retrospective DPO",
@@ -737,10 +756,11 @@
       "Visual Perception & Recognition"
     ],
     "year": "2025",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "MimiQ: Low-Bit Data-Free Quantization of Vision Transformers with Encouraging Inter-Head Attention Similarity",
@@ -767,10 +787,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "2025",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents",
@@ -796,10 +816,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2024",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments",
@@ -839,10 +860,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2024",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "SyncVSR: Data-Efficient Visual Speech Recognition with End-to-End Crossmodal Audio Token Synchronization",
@@ -870,10 +892,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "2024",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Speech"
+    ]
   },
   {
     "title": "Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback",
@@ -910,10 +932,11 @@
       "Visual Perception & Recognition"
     ],
     "year": "2024",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "DataFreeShield: Defending Adversarial Attacks without Training Data",
@@ -940,10 +963,10 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2024",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Learning Equi-angular Representations for Online Continual Learning",
@@ -976,10 +999,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "2024",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Online Continual Learning for Interactive Instruction Following Agents",
@@ -1005,10 +1028,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2024",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "PAC-FNO: Parallel-Structured All-Component Fourier Neural Operators for Recognizing Low-Quality Images",
@@ -1034,10 +1058,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "2024",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Operator-learning-inspired Modeling of Neural Ordinary Differential Equations",
@@ -1064,10 +1088,10 @@
       "AI for Science & Systems"
     ],
     "year": "2024",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents",
@@ -1103,10 +1127,11 @@
       "Continual Learning"
     ],
     "year": "2023",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Story Visualization by Online Text Augmentation with Context Memory",
@@ -1144,10 +1169,11 @@
       "Generative & Computational Imaging"
     ],
     "year": "2023",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Online Continual Learning on Hierarchical Label Expansion",
@@ -1181,10 +1207,10 @@
       "Continual Learning"
     ],
     "year": "2023",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Cost-effective On-device Continual Learning over Memory Hierarchy with Miro",
@@ -1213,10 +1239,10 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2023",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "MEnsA: Mix-up Ensemble Average for Unsupervised Multi Target Domain Adaptation on 3D Point Clouds",
@@ -1236,10 +1262,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "2023",
-    "publicationType": [
-      "Workshop"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Online Boundary-Free Continual Learning by Scheduled Data Prior",
@@ -1269,10 +1295,10 @@
       "Continual Learning"
     ],
     "year": "2023",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Multi-level Compositional Reasoning for Interactive Instruction Following",
@@ -1297,10 +1323,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2023",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Ask4Help: Learning to Leverage an Expert for Embodied Tasks",
@@ -1328,10 +1355,10 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2022",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Learning visual representations for transfer learning by suppressing texture",
@@ -1365,10 +1392,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "2022",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "CarM: Hierarchical Episodic Memory for Continual Learning",
@@ -1396,10 +1423,10 @@
       "Continual Learning"
     ],
     "year": "2022",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Unsupervised Representation Learning for Binary Networks by Joint Classifier Learning",
@@ -1428,10 +1455,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "2022",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries",
@@ -1463,10 +1490,10 @@
       "Continual Learning"
     ],
     "year": "2022",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Stereo Depth from Events Cameras: Concentrate and Focus on the Future",
@@ -1496,10 +1523,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "2022",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Attentive Fine-Grained Structured Sparsity for Image Restoration",
@@ -1532,10 +1559,10 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2022",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Language Guided Meta-Control for Embodied Instruction Following",
@@ -1564,10 +1591,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2022",
-    "publicationType": [
-      "Workshop"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference",
@@ -1589,10 +1617,10 @@
       "Continual Learning"
     ],
     "year": "2022",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Iconary: A Pictionary-based Game for Testing Multimodal Communication with Drawings and Text",
@@ -1626,10 +1654,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2021",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Zero-Shot Natural Language Video Localization",
@@ -1657,10 +1686,11 @@
       "Visual Perception & Recognition"
     ],
     "year": "2021",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Factorizing Perception and Policy for Interactive Instruction Following",
@@ -1699,10 +1729,11 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2021",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision",
+      "Language"
+    ]
   },
   {
     "title": "Rethinking Deep Image Prior for Denoising",
@@ -1727,10 +1758,10 @@
       "Generative & Computational Imaging"
     ],
     "year": "2021",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds",
@@ -1751,10 +1782,10 @@
       "Visual Perception & Recognition"
     ],
     "year": "2021",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "E2SRI: Learning to Super Resolve Intensity Images from Events",
@@ -1789,10 +1820,10 @@
       "Generative & Computational Imaging"
     ],
     "year": "2021",
-    "publicationType": [
-      "Journal"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Rainbow Memory: Continual Learning with a Memory of Diverse Samples",
@@ -1823,10 +1854,10 @@
       "Continual Learning"
     ],
     "year": "2021",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "BNAS v2: Learning Architectures for Binary Networks with Empirical Improvements",
@@ -1847,10 +1878,10 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2021",
-    "publicationType": [
-      "Workshop"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Acceleration of Semiconductor Device Simulation With Approximate Solutions Predicted by Trained Neural Networks",
@@ -1875,10 +1906,10 @@
       "AI for Science & Systems"
     ],
     "year": "2021",
-    "publicationType": [
-      "Journal"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Learning Architectures for Binary Networks",
@@ -1907,10 +1938,10 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2020",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Learning to Super Resolve Intensity Images from Events",
@@ -1944,10 +1975,10 @@
       "Generative & Computational Imaging"
     ],
     "year": "2020",
-    "publicationType": [
-      "Conference"
-    ],
-    "recognized": "recognized"
+    "recognized": "recognized",
+    "modality": [
+      "Vision"
+    ]
   },
   {
     "title": "Confidence Calibration for Incremental Learning",
@@ -1969,9 +2000,9 @@
       "Continual Learning"
     ],
     "year": "2020",
-    "publicationType": [
-      "Journal"
-    ],
-    "recognized": "unrecognized"
+    "recognized": "unrecognized",
+    "modality": [
+      "Vision"
+    ]
   }
 ]

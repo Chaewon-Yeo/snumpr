@@ -64,9 +64,9 @@ export default function PublicationList({ publications }: PublicationListProps) 
   );
 }
 
-const filterLabels = ['researchTopic', 'publicationType'] as const;
+const filterLabels = ['researchTopic', 'modality'] as const;
 const publicationFiltersSchema = {
-  publicationType: parseAsArrayOf(parseAsString).withDefault([]),
+  modality: parseAsArrayOf(parseAsString).withDefault([]),
   researchTopic: parseAsArrayOf(parseAsString).withDefault([]),
 };
 
@@ -85,8 +85,8 @@ function filterPublications(
 ): PublicationItem[] {
   return publications.filter((pub) => {
     if (
-      filters.publicationType.length > 0 &&
-      !pub.publicationType.some((v) => filters.publicationType.includes(v))
+      filters.modality.length > 0 &&
+      !pub.modality.some((v) => filters.modality.includes(v))
     ) {
       return false;
     }
@@ -102,18 +102,18 @@ function filterPublications(
 
 function findPossibleOptions(publications: PublicationItem[]) {
   const year = new Set<string>();
-  const publicationType = new Set<string>();
+  const modality = new Set<string>();
   const researchTopic = new Set<string>();
 
   publications.forEach((pub) => {
     year.add(pub.year);
-    pub.publicationType.forEach((v) => publicationType.add(v));
+    pub.modality.forEach((v) => modality.add(v));
     pub.researchTopic.forEach((v) => researchTopic.add(v));
   });
 
   return {
     year: Array.from(year).sort().reverse(),
-    publicationType: Array.from(publicationType).sort(),
+    modality: Array.from(modality).sort(),
     researchTopic: Array.from(researchTopic).sort(),
   };
 }

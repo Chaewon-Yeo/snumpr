@@ -134,6 +134,7 @@ snumpr/
   "researchTopic": ["AI"],
   "year": "2026",
   "modality": ["Vision"],
+  "recognition": ["Oral/Spotlight"],
   "recognized": "ORAL"
 }
 ```
@@ -145,6 +146,7 @@ snumpr/
 | `researchTopic`   | 배열. 예: `["AI"]`, `["Vision"]`                                                                 |
 | `year`            | `"2026"`, `"2025"`, `"Preprint"` 등                                                              |
 | `modality`        | 배열. `Vision`, `Language`, `Speech` 중 하나 이상                                                  |
+| `recognition`     | 배열. `Award winning`, `Oral/Spotlight`, `Highly cited` 중 하나 이상. 해당 없으면 `[]`             |
 | `recognized`      | `""`(없음) 또는 `"ORAL"`, `"Best Paper"` 같은 강조 라벨                                          |
 
 논문 PDF를 사이트에 직접 호스팅하려면 `public/research-pdfs/`에 파일을 넣고 `links`에서 `"/research-pdfs/<파일명>.pdf"`로 참조하시면 됩니다.

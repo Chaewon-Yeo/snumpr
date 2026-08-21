@@ -64,9 +64,11 @@ export default function PublicationList({ publications }: PublicationListProps) 
   );
 }
 
-const filterLabels = ['researchTopic', 'modality'] as const;
+const filterLabels = ['researchTopic', 'modality', 'recognition'] as const;
+const recognitionOptions = ['Award winning', 'Oral/Spotlight', 'Highly cited'];
 const publicationFiltersSchema = {
   modality: parseAsArrayOf(parseAsString).withDefault([]),
+  recognition: parseAsArrayOf(parseAsString).withDefault([]),
   researchTopic: parseAsArrayOf(parseAsString).withDefault([]),
 };
 
@@ -96,6 +98,12 @@ function filterPublications(
     ) {
       return false;
     }
+    if (
+      filters.recognition.length > 0 &&
+      !pub.recognition.some((v) => filters.recognition.includes(v))
+    ) {
+      return false;
+    }
     return true;
   });
 }
@@ -114,6 +122,7 @@ function findPossibleOptions(publications: PublicationItem[]) {
   return {
     year: Array.from(year).sort().reverse(),
     modality: Array.from(modality).sort(),
+    recognition: recognitionOptions,
     researchTopic: Array.from(researchTopic).sort(),
   };
 }
@@ -317,8 +326,21 @@ function renderJournalsInfo(text: string): React.ReactNode {
 function PublicationItemView({ pub }: { pub: PublicationItem }) {
   const authorsText = formatAuthors(pub.authors);
   const thumbnailUrl = pub.thumbnailUrl;
+  const hasMedal = pub.recognition.some(
+    (recognition) => recognition === 'Award winning' || recognition === 'Oral/Spotlight',
+  );
   return (
-    <article className={styles.article}>
+    <article className={`${styles.article} ${hasMedal ? styles.articleRecognized : ''}`}>
+      {hasMedal && (
+        <Image
+          src="/icons/publication/medal(big).png"
+          alt="Recognized publication"
+          width={32}
+          height={32}
+          className={styles.medalIcon}
+          title={pub.recognition.join(', ')}
+        />
+      )}
       <div className={styles.imageTitleWrapper}>
         <div className={styles.imageWrapper}>
           <Image

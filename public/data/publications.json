@@ -28,11 +28,12 @@
       "Foundation Models & Alignment",
       "Embodied & Multimodal AI"
     ],
-    "year": "Preprint",
+    "year": "2026",
     "recognized": "unrecognized",
     "modality": [
       "Speech"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts",
@@ -62,12 +63,13 @@
       "Embodied & Multimodal AI",
       "Efficient & Adaptive AI"
     ],
-    "year": "Preprint",
+    "year": "2026",
     "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Modular Memory is the Key to Continual Learning Agents",
@@ -109,11 +111,12 @@
       "Continual Learning",
       "Embodied & Multimodal AI"
     ],
-    "year": "Preprint",
+    "year": "2026",
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models",
@@ -150,6 +153,9 @@
     "modality": [
       "Vision",
       "Language"
+    ],
+    "recognition": [
+      "Oral/Spotlight"
     ]
   },
   {
@@ -184,11 +190,15 @@
       "Foundation Models & Alignment",
       "Embodied & Multimodal AI"
     ],
-    "year": "Preprint",
+    "year": "2026",
     "recognized": "recognized",
     "modality": [
       "Vision",
       "Language"
+    ],
+    "recognition": [
+      "Award winning",
+      "Oral/Spotlight"
     ]
   },
   {
@@ -216,7 +226,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "OASIS: Online Sample Selection for Continual Visual Instruction Tuning",
@@ -244,7 +255,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "FALCON: Fast Adaptive Lightweight Computation of Intensities and Events for Depth Estimation",
@@ -264,7 +276,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "DBMSolver: A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation",
@@ -288,7 +301,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands",
@@ -320,7 +334,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "TRACE: Your Diffusion Model is Secretly an Instance Edge Detector",
@@ -347,6 +362,9 @@
     "recognized": "recognized",
     "modality": [
       "Vision"
+    ],
+    "recognition": [
+      "Oral/Spotlight"
     ]
   },
   {
@@ -375,6 +393,10 @@
     "modality": [
       "Vision",
       "Language"
+    ],
+    "recognition": [
+      "Award winning",
+      "Oral/Spotlight"
     ]
   },
   {
@@ -411,6 +433,9 @@
     "modality": [
       "Vision",
       "Language"
+    ],
+    "recognition": [
+      "Oral/Spotlight"
     ]
   },
   {
@@ -438,7 +463,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "An Information Theoretic Evaluation Metric for Strong Unlearning",
@@ -464,7 +490,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "GenOL: Generating Diverse Examples for Name-only Online Learning",
@@ -492,7 +519,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "DialNav: Multi-turn Dialog Navigation with a Remote Guide",
@@ -531,7 +559,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Online Generic Event Boundary Detection",
@@ -561,7 +590,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework for Strategic Reasoning",
@@ -598,7 +628,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Representation Bending for Large Language Model Safety",
@@ -634,7 +665,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Large Language Models Still Exhibit Bias in Long Text",
@@ -660,7 +692,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Budgeted Online Continual Learning by Adaptive Layer Freezing and Frequency-based Sampling",
@@ -689,6 +722,9 @@
     "recognized": "recognized",
     "modality": [
       "Vision"
+    ],
+    "recognition": [
+      "Oral/Spotlight"
     ]
   },
   {
@@ -722,6 +758,9 @@
     "modality": [
       "Vision",
       "Language"
+    ],
+    "recognition": [
+      "Oral/Spotlight"
     ]
   },
   {
@@ -760,7 +799,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "MimiQ: Low-Bit Data-Free Quantization of Vision Transformers with Encouraging Inter-Head Attention Similarity",
@@ -790,7 +830,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents",
@@ -820,7 +861,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments",
@@ -864,7 +906,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "SyncVSR: Data-Efficient Visual Speech Recognition with End-to-End Crossmodal Audio Token Synchronization",
@@ -895,7 +938,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Speech"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback",
@@ -936,6 +980,9 @@
     "modality": [
       "Vision",
       "Language"
+    ],
+    "recognition": [
+      "Oral/Spotlight"
     ]
   },
   {
@@ -966,7 +1013,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Learning Equi-angular Representations for Online Continual Learning",
@@ -1002,7 +1050,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Online Continual Learning for Interactive Instruction Following Agents",
@@ -1032,7 +1081,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "PAC-FNO: Parallel-Structured All-Component Fourier Neural Operators for Recognizing Low-Quality Images",
@@ -1061,7 +1111,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Operator-learning-inspired Modeling of Neural Ordinary Differential Equations",
@@ -1091,7 +1142,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents",
@@ -1131,6 +1183,9 @@
     "modality": [
       "Vision",
       "Language"
+    ],
+    "recognition": [
+      "Award winning"
     ]
   },
   {
@@ -1173,7 +1228,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Online Continual Learning on Hierarchical Label Expansion",
@@ -1210,7 +1266,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Cost-effective On-device Continual Learning over Memory Hierarchy with Miro",
@@ -1242,7 +1299,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "MEnsA: Mix-up Ensemble Average for Unsupervised Multi Target Domain Adaptation on 3D Point Clouds",
@@ -1265,7 +1323,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Online Boundary-Free Continual Learning by Scheduled Data Prior",
@@ -1298,7 +1357,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Multi-level Compositional Reasoning for Interactive Instruction Following",
@@ -1327,7 +1387,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Ask4Help: Learning to Leverage an Expert for Embodied Tasks",
@@ -1358,7 +1419,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Learning visual representations for transfer learning by suppressing texture",
@@ -1395,7 +1457,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "CarM: Hierarchical Episodic Memory for Continual Learning",
@@ -1426,7 +1489,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Unsupervised Representation Learning for Binary Networks by Joint Classifier Learning",
@@ -1458,7 +1522,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries",
@@ -1493,7 +1558,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Stereo Depth from Events Cameras: Concentrate and Focus on the Future",
@@ -1526,7 +1592,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Attentive Fine-Grained Structured Sparsity for Image Restoration",
@@ -1562,7 +1629,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Language Guided Meta-Control for Embodied Instruction Following",
@@ -1595,7 +1663,8 @@
     "modality": [
       "Vision",
       "Language"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Online Continual Learning on Class Incremental Blurry Task Configuration with Anytime Inference",
@@ -1620,7 +1689,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Iconary: A Pictionary-based Game for Testing Multimodal Communication with Drawings and Text",
@@ -1658,6 +1728,9 @@
     "modality": [
       "Vision",
       "Language"
+    ],
+    "recognition": [
+      "Oral/Spotlight"
     ]
   },
   {
@@ -1690,6 +1763,9 @@
     "modality": [
       "Vision",
       "Language"
+    ],
+    "recognition": [
+      "Oral/Spotlight"
     ]
   },
   {
@@ -1733,6 +1809,9 @@
     "modality": [
       "Vision",
       "Language"
+    ],
+    "recognition": [
+      "Award winning"
     ]
   },
   {
@@ -1761,7 +1840,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds",
@@ -1785,6 +1865,9 @@
     "recognized": "recognized",
     "modality": [
       "Vision"
+    ],
+    "recognition": [
+      "Award winning"
     ]
   },
   {
@@ -1823,7 +1906,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Rainbow Memory: Continual Learning with a Memory of Diverse Samples",
@@ -1857,7 +1941,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "BNAS v2: Learning Architectures for Binary Networks with Empirical Improvements",
@@ -1881,7 +1966,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Acceleration of Semiconductor Device Simulation With Approximate Solutions Predicted by Trained Neural Networks",
@@ -1909,7 +1995,8 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   },
   {
     "title": "Learning Architectures for Binary Networks",
@@ -1941,6 +2028,9 @@
     "recognized": "recognized",
     "modality": [
       "Vision"
+    ],
+    "recognition": [
+      "Award winning"
     ]
   },
   {
@@ -1978,6 +2068,9 @@
     "recognized": "recognized",
     "modality": [
       "Vision"
+    ],
+    "recognition": [
+      "Oral/Spotlight"
     ]
   },
   {
@@ -2003,6 +2096,7 @@
     "recognized": "unrecognized",
     "modality": [
       "Vision"
-    ]
+    ],
+    "recognition": []
   }
 ]

@@ -17,9 +17,8 @@
       }
     ],
     "researchTopic": [
-      "AI",
-      "Foundation Models & LLM Alignment",
-      "Vision-Language & Multimodal Learning"
+      "Foundation Models & Alignment",
+      "Embodied & Multimodal AI"
     ],
     "year": "Preprint",
     "publicationType": [
@@ -52,9 +51,7 @@
       }
     ],
     "researchTopic": [
-      "AI",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning",
+      "Embodied & Multimodal AI",
       "Efficient & Adaptive AI"
     ],
     "year": "Preprint",
@@ -100,9 +97,8 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning",
-      "Embodied AI & Robotics"
+      "Embodied & Multimodal AI"
     ],
     "year": "Preprint",
     "publicationType": [
@@ -137,9 +133,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning",
+      "Embodied & Multimodal AI",
       "Efficient & Adaptive AI"
     ],
     "year": "2026",
@@ -177,10 +171,8 @@
       }
     ],
     "researchTopic": [
-      "Text",
-      "Foundation Models & LLM Alignment",
-      "Vision-Language & Multimodal Learning",
-      "Trustworthy AI"
+      "Foundation Models & Alignment",
+      "Embodied & Multimodal AI"
     ],
     "year": "Preprint",
     "publicationType": [
@@ -207,9 +199,8 @@
       }
     ],
     "researchTopic": [
-      "Vision",
       "Efficient & Adaptive AI",
-      "Representation Learning & Recognition"
+      "Visual Perception & Recognition"
     ],
     "year": "Preprint",
     "publicationType": [
@@ -235,9 +226,8 @@
       }
     ],
     "researchTopic": [
-      "Text",
       "Continual Learning",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2026",
     "publicationType": [
@@ -256,8 +246,7 @@
     "thumbnailUrl": "/images/publications/cvprf26-falcon.jpg",
     "links": [],
     "researchTopic": [
-      "Vision",
-      "Event-based Vision & 3D Perception",
+      "Visual Perception & Recognition",
       "Efficient & Adaptive AI"
     ],
     "year": "2026",
@@ -282,7 +271,6 @@
       }
     ],
     "researchTopic": [
-      "Vision",
       "Generative & Computational Imaging"
     ],
     "year": "2026",
@@ -314,9 +302,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2026",
     "publicationType": [
@@ -343,7 +329,6 @@
       }
     ],
     "researchTopic": [
-      "Vision",
       "Generative & Computational Imaging"
     ],
     "year": "2026",
@@ -370,9 +355,8 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Efficient & Adaptive AI",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2026",
     "publicationType": [
@@ -406,8 +390,7 @@
       }
     ],
     "researchTopic": [
-      "Text",
-      "Foundation Models & LLM Alignment",
+      "Foundation Models & Alignment",
       "Efficient & Adaptive AI"
     ],
     "year": "2026",
@@ -435,8 +418,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Video Understanding & Temporal Reasoning"
+      "Visual Perception & Recognition"
     ],
     "year": "2026",
     "publicationType": [
@@ -462,8 +444,7 @@
       }
     ],
     "researchTopic": [
-      "AI",
-      "Trustworthy AI"
+      "Foundation Models & Alignment"
     ],
     "year": "2026",
     "publicationType": [
@@ -491,7 +472,6 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning"
     ],
     "year": "2025",
@@ -530,9 +510,7 @@
       }
     ],
     "researchTopic": [
-      "Text",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2025",
     "publicationType": [
@@ -562,8 +540,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Video Understanding & Temporal Reasoning"
+      "Visual Perception & Recognition"
     ],
     "year": "2025",
     "publicationType": [
@@ -599,8 +576,7 @@
       }
     ],
     "researchTopic": [
-      "Text",
-      "Foundation Models & LLM Alignment"
+      "Foundation Models & Alignment"
     ],
     "year": "2025",
     "publicationType": [
@@ -635,9 +611,7 @@
       }
     ],
     "researchTopic": [
-      "Text",
-      "Foundation Models & LLM Alignment",
-      "Trustworthy AI"
+      "Foundation Models & Alignment"
     ],
     "year": "2025",
     "publicationType": [
@@ -662,9 +636,7 @@
       }
     ],
     "researchTopic": [
-      "Text",
-      "Foundation Models & LLM Alignment",
-      "Trustworthy AI"
+      "Foundation Models & Alignment"
     ],
     "year": "2025",
     "publicationType": [
@@ -692,7 +664,6 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning",
       "Efficient & Adaptive AI"
     ],
@@ -726,9 +697,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2025",
     "publicationType": [
@@ -763,10 +732,9 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Foundation Models & LLM Alignment",
-      "Vision-Language & Multimodal Learning",
-      "Video Understanding & Temporal Reasoning"
+      "Foundation Models & Alignment",
+      "Embodied & Multimodal AI",
+      "Visual Perception & Recognition"
     ],
     "year": "2025",
     "publicationType": [
@@ -795,9 +763,8 @@
       }
     ],
     "researchTopic": [
-      "Vision",
       "Efficient & Adaptive AI",
-      "Representation Learning & Recognition"
+      "Visual Perception & Recognition"
     ],
     "year": "2025",
     "publicationType": [
@@ -826,9 +793,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2024",
     "publicationType": [
@@ -871,9 +836,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2024",
     "publicationType": [
@@ -903,9 +866,8 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Vision-Language & Multimodal Learning",
-      "Video Understanding & Temporal Reasoning"
+      "Embodied & Multimodal AI",
+      "Visual Perception & Recognition"
     ],
     "year": "2024",
     "publicationType": [
@@ -943,10 +905,9 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Foundation Models & LLM Alignment",
-      "Vision-Language & Multimodal Learning",
-      "Video Understanding & Temporal Reasoning"
+      "Foundation Models & Alignment",
+      "Embodied & Multimodal AI",
+      "Visual Perception & Recognition"
     ],
     "year": "2024",
     "publicationType": [
@@ -975,8 +936,7 @@
       }
     ],
     "researchTopic": [
-      "AI",
-      "Trustworthy AI",
+      "Foundation Models & Alignment",
       "Efficient & Adaptive AI"
     ],
     "year": "2024",
@@ -1012,9 +972,8 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning",
-      "Representation Learning & Recognition"
+      "Visual Perception & Recognition"
     ],
     "year": "2024",
     "publicationType": [
@@ -1042,10 +1001,8 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2024",
     "publicationType": [
@@ -1073,9 +1030,8 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Scientific Machine Learning",
-      "Representation Learning & Recognition"
+      "AI for Science & Systems",
+      "Visual Perception & Recognition"
     ],
     "year": "2024",
     "publicationType": [
@@ -1105,8 +1061,7 @@
       }
     ],
     "researchTopic": [
-      "AI",
-      "Scientific Machine Learning"
+      "AI for Science & Systems"
     ],
     "year": "2024",
     "publicationType": [
@@ -1144,9 +1099,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning",
+      "Embodied & Multimodal AI",
       "Continual Learning"
     ],
     "year": "2023",
@@ -1187,8 +1140,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Vision-Language & Multimodal Learning",
+      "Embodied & Multimodal AI",
       "Generative & Computational Imaging"
     ],
     "year": "2023",
@@ -1226,7 +1178,6 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning"
     ],
     "year": "2023",
@@ -1258,7 +1209,6 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning",
       "Efficient & Adaptive AI"
     ],
@@ -1283,8 +1233,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Representation Learning & Recognition"
+      "Visual Perception & Recognition"
     ],
     "year": "2023",
     "publicationType": [
@@ -1317,7 +1266,6 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning"
     ],
     "year": "2023",
@@ -1346,9 +1294,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2023",
     "publicationType": [
@@ -1379,8 +1325,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Embodied AI & Robotics"
+      "Embodied & Multimodal AI"
     ],
     "year": "2022",
     "publicationType": [
@@ -1417,8 +1362,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Representation Learning & Recognition"
+      "Visual Perception & Recognition"
     ],
     "year": "2022",
     "publicationType": [
@@ -1449,7 +1393,6 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning"
     ],
     "year": "2022",
@@ -1481,9 +1424,8 @@
       }
     ],
     "researchTopic": [
-      "Vision",
       "Efficient & Adaptive AI",
-      "Representation Learning & Recognition"
+      "Visual Perception & Recognition"
     ],
     "year": "2022",
     "publicationType": [
@@ -1518,7 +1460,6 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning"
     ],
     "year": "2022",
@@ -1552,8 +1493,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Event-based Vision & 3D Perception"
+      "Visual Perception & Recognition"
     ],
     "year": "2022",
     "publicationType": [
@@ -1588,7 +1528,6 @@
       }
     ],
     "researchTopic": [
-      "Vision",
       "Generative & Computational Imaging",
       "Efficient & Adaptive AI"
     ],
@@ -1622,9 +1561,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2022",
     "publicationType": [
@@ -1649,7 +1586,6 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning"
     ],
     "year": "2022",
@@ -1687,8 +1623,7 @@
       }
     ],
     "researchTopic": [
-      "Text",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2021",
     "publicationType": [
@@ -1718,9 +1653,8 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Vision-Language & Multimodal Learning",
-      "Video Understanding & Temporal Reasoning"
+      "Embodied & Multimodal AI",
+      "Visual Perception & Recognition"
     ],
     "year": "2021",
     "publicationType": [
@@ -1762,9 +1696,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Embodied AI & Robotics",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2021",
     "publicationType": [
@@ -1792,7 +1724,6 @@
       }
     ],
     "researchTopic": [
-      "Vision",
       "Generative & Computational Imaging"
     ],
     "year": "2021",
@@ -1817,8 +1748,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Event-based Vision & 3D Perception"
+      "Visual Perception & Recognition"
     ],
     "year": "2021",
     "publicationType": [
@@ -1855,8 +1785,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Event-based Vision & 3D Perception",
+      "Visual Perception & Recognition",
       "Generative & Computational Imaging"
     ],
     "year": "2021",
@@ -1891,7 +1820,6 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning"
     ],
     "year": "2021",
@@ -1916,7 +1844,6 @@
       }
     ],
     "researchTopic": [
-      "Vision",
       "Efficient & Adaptive AI"
     ],
     "year": "2021",
@@ -1945,8 +1872,7 @@
       }
     ],
     "researchTopic": [
-      "AI",
-      "Scientific Machine Learning"
+      "AI for Science & Systems"
     ],
     "year": "2021",
     "publicationType": [
@@ -1978,7 +1904,6 @@
       }
     ],
     "researchTopic": [
-      "Vision",
       "Efficient & Adaptive AI"
     ],
     "year": "2020",
@@ -2015,8 +1940,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Event-based Vision & 3D Perception",
+      "Visual Perception & Recognition",
       "Generative & Computational Imaging"
     ],
     "year": "2020",
@@ -2042,7 +1966,6 @@
       }
     ],
     "researchTopic": [
-      "AI",
       "Continual Learning"
     ],
     "year": "2020",
@@ -2068,10 +1991,8 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Event-based Vision & 3D Perception",
-      "Generative & Computational Imaging",
-      "Video Understanding & Temporal Reasoning"
+      "Visual Perception & Recognition",
+      "Generative & Computational Imaging"
     ],
     "year": "2019",
     "publicationType": [
@@ -2112,8 +2033,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Representation Learning & Recognition"
+      "Visual Perception & Recognition"
     ],
     "year": "2018",
     "publicationType": [
@@ -2148,8 +2068,7 @@
       }
     ],
     "researchTopic": [
-      "Text",
-      "Vision-Language & Multimodal Learning"
+      "Embodied & Multimodal AI"
     ],
     "year": "2017",
     "publicationType": [
@@ -2187,8 +2106,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Video Understanding & Temporal Reasoning"
+      "Visual Perception & Recognition"
     ],
     "year": "2016",
     "publicationType": [
@@ -2213,8 +2131,7 @@
       }
     ],
     "researchTopic": [
-      "Vision",
-      "Representation Learning & Recognition"
+      "Visual Perception & Recognition"
     ],
     "year": "2016",
     "publicationType": [
@@ -2243,8 +2160,7 @@
       }
     ],
     "researchTopic": [
-      "AI",
-      "Representation Learning & Recognition"
+      "Visual Perception & Recognition"
     ],
     "year": "2016",
     "publicationType": [

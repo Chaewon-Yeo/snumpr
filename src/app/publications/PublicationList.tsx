@@ -331,6 +331,9 @@ function PublicationItemView({ pub }: { pub: PublicationItem }) {
   );
   const medalCount = hasMedal ? Math.max(1, pub.recognitionVenues?.length ?? 1) : 0;
   const hasMultipleMedals = medalCount > 1;
+  const medalSource = pub.journalsInfo.includes('Spotlight')
+    ? '/icons/publication/medal2.png'
+    : '/icons/publication/medal1.png';
   return (
     <article
       className={`${styles.article} ${hasMedal ? styles.articleRecognized : ''} ${hasMultipleMedals ? styles.articleMultipleRecognitions : ''}`}
@@ -340,11 +343,12 @@ function PublicationItemView({ pub }: { pub: PublicationItem }) {
           {Array.from({ length: medalCount }, (_, index) => (
             <Image
               key={index}
-              src="/icons/publication/medal(big).png"
+              src={medalSource}
               alt={index === 0 ? 'Recognized publication' : ''}
-              width={32}
-              height={32}
+              width={64}
+              height={64}
               className={styles.medalIcon}
+              sizes="(max-width: 900px) 34px, 45px"
             />
           ))}
         </div>

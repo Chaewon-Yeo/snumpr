@@ -80,7 +80,7 @@
   top: 1.4rem;
   right: 1.4rem;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 0;
   z-index: 1;
 }
@@ -90,8 +90,22 @@
   height: 4.5rem;
 }
 
-.medalIcon + .medalIcon {
+.medalWithLabel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.medalWithLabel + .medalWithLabel {
   margin-left: -0.8rem;
+}
+
+.medalLabel {
+  margin-top: 0.2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1;
+  white-space: nowrap;
 }
 
 .articleRecognized .infoWrapper {
@@ -121,8 +135,12 @@
     height: 3.4rem;
   }
 
-  .medalIcon + .medalIcon {
+  .medalWithLabel + .medalWithLabel {
     margin-left: -0.6rem;
+  }
+
+  .medalLabel {
+    font-size: 0.8rem;
   }
 
   .articleRecognized .mobileDetailsWrapper {

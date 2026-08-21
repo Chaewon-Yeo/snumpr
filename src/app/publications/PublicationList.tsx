@@ -334,6 +334,11 @@ function PublicationItemView({ pub }: { pub: PublicationItem }) {
   const medalSource = pub.journalsInfo.includes('Spotlight')
     ? '/icons/publication/medal2.png'
     : '/icons/publication/medal1.png';
+  const medalLabel = pub.journalsInfo.includes('Spotlight')
+    ? 'Spotlight'
+    : pub.recognition.includes('Award winning')
+      ? 'Best Paper'
+      : 'Oral';
   return (
     <article
       className={`${styles.article} ${hasMedal ? styles.articleRecognized : ''} ${hasMultipleMedals ? styles.articleMultipleRecognitions : ''}`}
@@ -341,15 +346,17 @@ function PublicationItemView({ pub }: { pub: PublicationItem }) {
       {hasMedal && (
         <div className={styles.medalIcons} title={pub.recognitionVenues?.join(', ') ?? pub.recognition.join(', ')}>
           {Array.from({ length: medalCount }, (_, index) => (
-            <Image
-              key={index}
-              src={medalSource}
-              alt={index === 0 ? 'Recognized publication' : ''}
-              width={64}
-              height={64}
-              className={styles.medalIcon}
-              sizes="(max-width: 900px) 34px, 45px"
-            />
+            <div key={index} className={styles.medalWithLabel}>
+              <Image
+                src={medalSource}
+                alt={index === 0 ? 'Recognized publication' : ''}
+                width={64}
+                height={64}
+                className={styles.medalIcon}
+                sizes="(max-width: 900px) 34px, 45px"
+              />
+              <span className={styles.medalLabel}>{medalLabel}</span>
+            </div>
           ))}
         </div>
       )}

@@ -460,6 +460,10 @@
     ],
     "recognition": [
       "Oral/Spotlight"
+    ],
+    "recognitionVenues": [
+      "EACL 2026 (Short)",
+      "ACL 2026 Eval Eval Workshop"
     ]
   },
   {

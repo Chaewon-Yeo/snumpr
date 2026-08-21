@@ -329,17 +329,25 @@ function PublicationItemView({ pub }: { pub: PublicationItem }) {
   const hasMedal = pub.recognition.some(
     (recognition) => recognition === 'Award winning' || recognition === 'Oral/Spotlight',
   );
+  const medalCount = hasMedal ? Math.max(1, pub.recognitionVenues?.length ?? 1) : 0;
+  const hasMultipleMedals = medalCount > 1;
   return (
-    <article className={`${styles.article} ${hasMedal ? styles.articleRecognized : ''}`}>
+    <article
+      className={`${styles.article} ${hasMedal ? styles.articleRecognized : ''} ${hasMultipleMedals ? styles.articleMultipleRecognitions : ''}`}
+    >
       {hasMedal && (
-        <Image
-          src="/icons/publication/medal(big).png"
-          alt="Recognized publication"
-          width={32}
-          height={32}
-          className={styles.medalIcon}
-          title={pub.recognition.join(', ')}
-        />
+        <div className={styles.medalIcons} title={pub.recognitionVenues?.join(', ') ?? pub.recognition.join(', ')}>
+          {Array.from({ length: medalCount }, (_, index) => (
+            <Image
+              key={index}
+              src="/icons/publication/medal(big).png"
+              alt={index === 0 ? 'Recognized publication' : ''}
+              width={32}
+              height={32}
+              className={styles.medalIcon}
+            />
+          ))}
+        </div>
       )}
       <div className={styles.imageTitleWrapper}>
         <div className={styles.imageWrapper}>

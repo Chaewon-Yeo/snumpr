@@ -43,4 +43,5 @@ export interface PublicationItem {
   year: string;
   modality: string[];
   recognition: string[];
+  recognitionVenues?: string[];
 }

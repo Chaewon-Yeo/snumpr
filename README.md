@@ -134,7 +134,8 @@ snumpr/
   "researchTopic": ["AI"],
   "year": "2026",
   "modality": ["Vision"],
-  "recognition": ["Oral/Spotlight"]
+  "recognition": ["Oral/Spotlight"],
+  "recognitionVenues": ["ICML 2026"]
 }
 ```
 
@@ -146,6 +147,7 @@ snumpr/
 | `year`            | `"2026"`, `"2025"`, `"Preprint"` 등                                                              |
 | `modality`        | 배열. `Vision`, `Language`, `Speech` 중 하나 이상                                                  |
 | `recognition`     | 배열. `Award winning`, `Oral/Spotlight`, `Highly cited` 중 하나 이상. 해당 없으면 `[]`             |
+| `recognitionVenues` | 선택 항목. recognition을 받은 venue 목록. 두 곳 이상이면 목록 수만큼 메달이 표시됩니다.           |
 
 논문 PDF를 사이트에 직접 호스팅하려면 `public/research-pdfs/`에 파일을 넣고 `links`에서 `"/research-pdfs/<파일명>.pdf"`로 참조하시면 됩니다.
 

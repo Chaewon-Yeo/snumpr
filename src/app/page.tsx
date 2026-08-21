@@ -30,11 +30,13 @@ export default function Home() {
       {news.length > 0 && (
         <FadeIn>
           <section className={`${styles.section} ${styles.newsSection}`}>
-            <div className={styles.sliderArea}>
-              <button className={styles.arrowBtn} onClick={handlePrev} aria-label="Previous">
-                <img src="/icons/home/arrow.svg" alt="Previous" />
-              </button>
+            <div className={styles.newsIntro}>
+              <p className={styles.newsEyebrow}>Latest News</p>
+              <h1 className={styles.newsTitle}>{news[currentIndex].title}</h1>
+              <p className={styles.newsDetails}>{news[currentIndex].details}</p>
+            </div>
 
+            <div className={styles.sliderArea}>
               <div className={styles.sliderContainer}>
                 <div
                   className={styles.sliderTrack}
@@ -47,7 +49,7 @@ export default function Home() {
                           src={item.imageUrl}
                           alt={item.title}
                           fill
-                          sizes="(max-width: 900px) 100vw, 1280px"
+                          sizes="(max-width: 900px) 100vw, 52vw"
                           className={styles.image}
                           priority={idx === 0}
                         />
@@ -57,6 +59,9 @@ export default function Home() {
                 </div>
               </div>
 
+              <button className={styles.arrowBtn} onClick={handlePrev} aria-label="Previous">
+                <img src="/icons/home/arrow.svg" alt="" />
+              </button>
               <button
                 className={`${styles.arrowBtn} ${styles.arrowBtnRight}`}
                 onClick={handleNext}
@@ -64,7 +69,7 @@ export default function Home() {
               >
                 <img
                   src="/icons/home/arrow.svg"
-                  alt="Next"
+                  alt=""
                   style={{ transform: 'rotate(180deg)' }}
                 />
               </button>
@@ -81,13 +86,6 @@ export default function Home() {
                     role="tab"
                   />
                 ))}
-              </div>
-            </div>
-
-            <div className={styles.infoRow}>
-              <div className={styles.info}>
-                <h3 className={styles.title}>{news[currentIndex].title}</h3>
-                <p className={styles.details}>{news[currentIndex].details}</p>
               </div>
             </div>
           </section>

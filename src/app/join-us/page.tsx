@@ -33,7 +33,7 @@ Here are our answers to some of frequently asked questions regarding joining our
           </p>
           <div className={styles.imageWrapper}>
             <Image
-              src="/images/join-us/homecoming.webp"
+              src="/images/join-us/homecoming_protected.jpg"
               alt="The first homecoming @ Gangnam, Seoul"
               width={1600}
               height={1067}

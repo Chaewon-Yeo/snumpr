@@ -1,7 +1,6 @@
 .footer {
   position: relative;
   display: flex;
-  justify-content: space-between;
   align-items: flex-start;
   padding: 4.8rem 3.2rem 7.2rem;
   max-width: 1350px;
@@ -29,33 +28,10 @@
   }
 }
 
-.leftSection {
-  display: flex;
-  flex-direction: row;
-  max-width: calc(50vw - 5rem);
-}
-
-@media screen and (max-width: 900px) {
-  .leftSection {
-    max-width: 100%;
-  }
-}
-
-.logo {
-  display: block;
-  width: 45.6rem;
-  height: 4.08rem;
-  max-width: calc(100vw - 3.6rem);
-  object-fit: contain;
-  object-position: left center;
-  margin-top: -1.2rem;
-}
-
-.rightSection {
+.infoSection {
   display: flex;
   flex-direction: column;
   gap: 4.8rem;
-  margin-right: 2.4rem;
 }
 
 .infoRow {
@@ -64,7 +40,7 @@
 }
 
 @media screen and (max-width: 900px) {
-  .rightSection {
+  .infoSection {
     gap: 1.6rem;
   }
 

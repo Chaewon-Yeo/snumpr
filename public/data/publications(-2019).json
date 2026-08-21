@@ -1973,5 +1973,199 @@
       "Journal"
     ],
     "recognized": "unrecognized"
+  },
+  {
+    "title": "Event-based High Dynamic Range Image and Very High Frame Rate Video Generation using Conditional Generative Adversarial Networks",
+    "authors": [
+      "S. Mohammad Mostafavi I.",
+      "Lin Wang",
+      "Yo-Sung Ho",
+      "Kuk-Jin Yoon"
+    ],
+    "journalsInfo": "CVPR 2019",
+    "thumbnailUrl": "/images/publications/cvpr2019_ehdr.jpg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Event-Based_High_Dynamic_Range_Image_and_Very_High_Frame_Rate_CVPR_2019_paper.pdf"
+      }
+    ],
+    "researchTopic": [
+      "Visual Perception & Recognition",
+      "Generative & Computational Imaging"
+    ],
+    "year": "2019",
+    "publicationType": [
+      "Conference"
+    ],
+    "recognized": "unrecognized"
+  },
+  {
+    "title": "Structured Set Matching Networks for One-Shot Part Labeling",
+    "authors": [
+      "Jonghyun Choi",
+      "Jayant Krishnamurthy",
+      "Aniruddha Kembhavi",
+      "Ali Farhadi"
+    ],
+    "journalsInfo": "CVPR 2018 - Spotlight",
+    "thumbnailUrl": "/images/publications/cvpr2018_ssmn.jpg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Structured_Set_Matching_CVPR_2018_paper.pdf"
+      },
+      {
+        "label": "SuppMat",
+        "url": "https://openaccess.thecvf.com/content_cvpr_2018/Supplemental/2732-supp.pdf"
+      },
+      {
+        "label": "Project Page",
+        "url": "https://allenai.github.io/one-shot-part-labeling/"
+      },
+      {
+        "label": "Talk",
+        "url": "https://youtu.be/Jl1NeziAHFY?start=1h23m9s&end=1h27m16s"
+      },
+      {
+        "label": "Talk",
+        "url": "https://youtu.be/Jl1NeziAHFY?start=4996&end=5236"
+      }
+    ],
+    "researchTopic": [
+      "Visual Perception & Recognition"
+    ],
+    "year": "2018",
+    "publicationType": [
+      "Conference"
+    ],
+    "recognized": "recognized"
+  },
+  {
+    "title": "Are You Smarter Than A Sixth Grader? Textbook Question Answering for Multimodal Machine Comprehension",
+    "authors": [
+      "Aniruddha Kembhavi",
+      "Minjoon Seo",
+      "Dustin Schwenk",
+      "Jonghyun Choi",
+      "Ali Farhadi",
+      "Hannaneh Hajishirzi"
+    ],
+    "journalsInfo": "CVPR 2017 - Spotlight",
+    "thumbnailUrl": "/images/publications/cvpr2017_tqa.jpg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "http://openaccess.thecvf.com/content_cvpr_2017/papers/Kembhavi_Are_You_Smarter_CVPR_2017_paper.pdf"
+      },
+      {
+        "label": "Talk",
+        "url": "https://www.youtube.com/watch?v=gPGeTUmKxrg"
+      },
+      {
+        "label": "Dataset Explorer",
+        "url": "http://textbookqa.org/"
+      }
+    ],
+    "researchTopic": [
+      "Embodied & Multimodal AI"
+    ],
+    "year": "2017",
+    "publicationType": [
+      "Conference"
+    ],
+    "recognized": "recognized"
+  },
+  {
+    "title": "Learning Temporal Regularity in Video Sequences",
+    "authors": [
+      "Mahmudul Hasan",
+      "Jonghyun Choi",
+      "Jan Neumann",
+      "Amit K. Roy-Chowdhury",
+      "Larry S. Davis"
+    ],
+    "journalsInfo": "CVPR 2016",
+    "thumbnailUrl": "/images/publications/cvpr2016_anomaly.jpg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Hasan_Learning_Temporal_Regularity_CVPR_2016_paper.pdf"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/mhasa004/caffe"
+      },
+      {
+        "label": "Video1",
+        "url": "https://www.youtube.com/watch?v=RQ7dg6wCrQc"
+      },
+      {
+        "label": "Video2",
+        "url": "https://www.youtube.com/watch?v=UXEndaBFq6s"
+      }
+    ],
+    "researchTopic": [
+      "Visual Perception & Recognition"
+    ],
+    "year": "2016",
+    "publicationType": [
+      "Conference"
+    ],
+    "recognized": "unrecognized"
+  },
+  {
+    "title": "Mining Discriminative Triplets of Patches for Fine-Grained Classification",
+    "authors": [
+      "Yaming Wang",
+      "Jonghyun Choi",
+      "Vlad I. Morariu",
+      "Larry S. Davis"
+    ],
+    "journalsInfo": "CVPR 2016",
+    "thumbnailUrl": "/images/publications/cvpr2016_discpatch.jpg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "http://openaccess.thecvf.com/content_cvpr_2016/papers/Wang_Mining_Discriminative_Triplets_CVPR_2016_paper.pdf"
+      }
+    ],
+    "researchTopic": [
+      "Visual Perception & Recognition"
+    ],
+    "year": "2016",
+    "publicationType": [
+      "Conference"
+    ],
+    "recognized": "unrecognized"
+  },
+  {
+    "title": "Knowledge Transfer with Interactive Learning of Semantic Relationships",
+    "authors": [
+      "Jonghyun Choi",
+      "Sung Ju Hwang",
+      "Leonid Sigal",
+      "Larry S. Davis"
+    ],
+    "journalsInfo": "AAAI 2016",
+    "thumbnailUrl": "/images/publications/aaai2016_sal.jpg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "/research-pdfs/aaai2016_sal.pdf"
+      },
+      {
+        "label": "Slides",
+        "url": "/research-pdfs/aaai2016_sal_slide.pdf"
+      }
+    ],
+    "researchTopic": [
+      "Visual Perception & Recognition"
+    ],
+    "year": "2016",
+    "publicationType": [
+      "Conference"
+    ],
+    "recognized": "unrecognized"
   }
 ]

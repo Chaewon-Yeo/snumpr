@@ -1,96 +1,46 @@
-'use client';
-
-import { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import styles from './page.module.css';
-import newsData from '../../public/data/news.json';
 import highlightsData from '../../public/data/highlights.json';
-import { NewsItem, HighlightItem } from '../types';
+import { HighlightItem } from '../types';
 import FadeIn from '../components/FadeIn';
 
-const news: NewsItem[] = newsData;
 const highlights: HighlightItem[] = highlightsData;
 const HIGHLIGHTS_PREVIEW_COUNT = 4;
 
 export default function Home() {
-  const [currentIndex, setCurrentIndex] = useState(0);
-
-  const handleNext = () => {
-    setCurrentIndex((prev) => (prev + 1) % news.length);
-  };
-
-  const handlePrev = () => {
-    setCurrentIndex((prev) => (prev - 1 + news.length) % news.length);
-  };
-
   return (
     <main className={styles.main}>
-      {/* Latest News */}
-      {news.length > 0 && (
-        <FadeIn>
+      <FadeIn>
           <section className={`${styles.section} ${styles.newsSection}`}>
             <div className={styles.newsIntro}>
-              <p className={styles.newsEyebrow}>Latest News</p>
-              <h1 className={styles.newsTitle}>{news[currentIndex].title}</h1>
-              <p className={styles.newsDetails}>{news[currentIndex].details}</p>
+              <h1 className={styles.welcomeTitle}>
+                Welcome to
+                <br />
+                Machine Perception &amp;
+                <br />
+                Reasoning Lab!
+              </h1>
+              <h2 className={styles.newsTitle}>We study computational cognition and learning in efficiency.</h2>
+              <p className={styles.newsDetails}>
+                We explore the intersection of computational perception and efficient learning algorithms to advance intelligent systems. Our research optimizes how artificial agents acquire, represent, and adapt knowledge with minimal computational overhead. We try to trailblaze scalable, sustainable intelligence that works in real-world environments.
+              </p>
             </div>
 
-            <div className={styles.sliderArea}>
-              <div className={styles.sliderContainer}>
-                <div
-                  className={styles.sliderTrack}
-                  style={{ transform: `translateX(-${currentIndex * 100}%)` }}
-                >
-                  {news.map((item, idx) => (
-                    <div key={item.id} className={styles.slideItem}>
-                      <div className={styles.newsImageWrapper}>
-                        <Image
-                          src={item.imageUrl}
-                          alt={item.title}
-                          fill
-                          sizes="(max-width: 900px) 100vw, 52vw"
-                          className={styles.image}
-                          priority={idx === 0}
-                        />
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              <button className={styles.arrowBtn} onClick={handlePrev} aria-label="Previous">
-                <img src="/icons/home/arrow.svg" alt="" />
-              </button>
-              <button
-                className={`${styles.arrowBtn} ${styles.arrowBtnRight}`}
-                onClick={handleNext}
-                aria-label="Next"
-              >
-                <img
-                  src="/icons/home/arrow.svg"
-                  alt=""
-                  style={{ transform: 'rotate(180deg)' }}
-                />
-              </button>
-
-              <div className={styles.dots} role="tablist" aria-label="News pagination">
-                {news.map((item, idx) => (
-                  <button
-                    key={item.id}
-                    type="button"
-                    className={`${styles.dot} ${idx === currentIndex ? styles.dotActive : ''}`}
-                    onClick={() => setCurrentIndex(idx)}
-                    aria-label={`Go to slide ${idx + 1}`}
-                    aria-selected={idx === currentIndex}
-                    role="tab"
-                  />
-                ))}
-              </div>
+          <div className={styles.sliderArea}>
+            <div className={styles.newsImageWrapper}>
+              <Image
+                src="/images/gallery/2026workshop1_protected.jpeg"
+                alt="SNUMPR lab members"
+                fill
+                sizes="(max-width: 900px) 100vw, 52vw"
+                className={styles.image}
+                priority
+              />
             </div>
-          </section>
-        </FadeIn>
-      )}
+          </div>
+        </section>
+      </FadeIn>
 
       {/* Highlights */}
       <FadeIn>

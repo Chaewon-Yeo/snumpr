@@ -211,7 +211,8 @@ function PublicationFilterController({
       {filterLabels.map((l) => {
         const currentValues = filters[l];
         const isOpen = openFilter === l;
-        const displayText = currentValues.length === 0 ? 'All' : currentValues.join(', ');
+        const defaultLabel = l === 'recognition' ? 'None' : 'All';
+        const displayText = currentValues.length === 0 ? defaultLabel : currentValues.join(', ');
 
         return (
           <div key={l} className={styles.filterGroup}>
@@ -231,7 +232,7 @@ function PublicationFilterController({
                     className={`${styles.optionItem} ${currentValues.length === 0 ? styles.optionItemSelected : ''}`}
                     onClick={() => clearFilter(l)}
                   >
-                    <span className={styles.optionLabel}>All</span>
+                    <span className={styles.optionLabel}>{defaultLabel}</span>
                     {currentValues.length === 0 && <CheckIcon />}
                   </li>
                   {options[l].map((o) => {

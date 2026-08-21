@@ -29,8 +29,8 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2026",
-    "recognized": "unrecognized",
     "modality": [
+      "Language",
       "Speech"
     ],
     "recognition": []
@@ -64,10 +64,44 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2026",
-    "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
+    ],
+    "recognition": []
+  },
+  {
+    "title": "ISAC: Training-Free Instance-to-Semantic Attention Control for Multi-Instance Generation",
+    "authors": [
+      "Sanghyun Jo",
+      "Wooyeol Lee",
+      "Ziseok Lee",
+      "Jonghyun Choi",
+      "Jaesik Park",
+      "Kyungsu Kim"
+    ],
+    "journalsInfo": "ECCV 2026",
+    "thumbnailUrl": "/images/publications/isac.jpeg",
+    "links": [
+      {
+        "label": "PDF",
+        "url": "https://shjo-april.github.io/ISAC/static/data/ISAC_camera-ready.pdf"
+      },
+      {
+        "label": "Project Page",
+        "url": "https://shjo-april.github.io/ISAC/"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/shjo-april/ISAC"
+      }
+    ],
+    "researchTopic": [
+      "Generative & Computational Imaging"
+    ],
+    "year": "2026",
+    "modality": [
+      "Vision"
     ],
     "recognition": []
   },
@@ -99,7 +133,7 @@
       "Martin Mundt",
       "Rahaf Aljundi"
     ],
-    "journalsInfo": "arXiv 2603",
+    "journalsInfo": "ICML 2026 Position Paper Track — Spotlight",
     "thumbnailUrl": "/images/publications/arxiv2603-memory.jpg",
     "links": [
       {
@@ -112,11 +146,12 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2026",
-    "recognized": "unrecognized",
     "modality": [
-      "Vision"
+      "Language"
     ],
-    "recognition": []
+    "recognition": [
+      "Oral/Spotlight"
+    ]
   },
   {
     "title": "SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models",
@@ -149,7 +184,6 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2026",
-    "recognized": "recognized",
     "modality": [
       "Vision",
       "Language"
@@ -191,7 +225,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2026",
-    "recognized": "recognized",
     "modality": [
       "Vision",
       "Language"
@@ -223,7 +256,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "Preprint",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -251,7 +283,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2026",
-    "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
@@ -273,7 +304,6 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2026",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -298,7 +328,6 @@
       "Generative & Computational Imaging"
     ],
     "year": "2026",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -330,7 +359,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2026",
-    "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
@@ -359,7 +387,6 @@
       "Generative & Computational Imaging"
     ],
     "year": "2026",
-    "recognized": "recognized",
     "modality": [
       "Vision"
     ],
@@ -389,7 +416,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2026",
-    "recognized": "recognized",
     "modality": [
       "Vision",
       "Language"
@@ -429,9 +455,7 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2026",
-    "recognized": "recognized",
     "modality": [
-      "Vision",
       "Language"
     ],
     "recognition": [
@@ -460,7 +484,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2026",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -487,7 +510,6 @@
       "Foundation Models & Alignment"
     ],
     "year": "2026",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -516,7 +538,6 @@
       "Continual Learning"
     ],
     "year": "2025",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -555,7 +576,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2025",
-    "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
@@ -587,7 +607,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2025",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -624,9 +643,7 @@
       "Foundation Models & Alignment"
     ],
     "year": "2025",
-    "recognized": "unrecognized",
     "modality": [
-      "Vision",
       "Language"
     ],
     "recognition": []
@@ -661,9 +678,7 @@
       "Foundation Models & Alignment"
     ],
     "year": "2025",
-    "recognized": "unrecognized",
     "modality": [
-      "Vision",
       "Language"
     ],
     "recognition": []
@@ -688,9 +703,7 @@
       "Foundation Models & Alignment"
     ],
     "year": "2025",
-    "recognized": "unrecognized",
     "modality": [
-      "Vision",
       "Language"
     ],
     "recognition": []
@@ -719,7 +732,6 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2025",
-    "recognized": "recognized",
     "modality": [
       "Vision"
     ],
@@ -754,7 +766,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2025",
-    "recognized": "recognized",
     "modality": [
       "Vision",
       "Language"
@@ -795,7 +806,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2025",
-    "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
@@ -827,7 +837,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2025",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -857,7 +866,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2024",
-    "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
@@ -902,7 +910,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2024",
-    "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
@@ -935,8 +942,8 @@
       "Visual Perception & Recognition"
     ],
     "year": "2024",
-    "recognized": "unrecognized",
     "modality": [
+      "Vision",
       "Speech"
     ],
     "recognition": []
@@ -976,7 +983,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2024",
-    "recognized": "recognized",
     "modality": [
       "Vision",
       "Language"
@@ -1010,7 +1016,6 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2024",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1047,7 +1052,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2024",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1077,7 +1081,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2024",
-    "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
@@ -1108,7 +1111,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2024",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1139,7 +1141,6 @@
       "AI for Science & Systems"
     ],
     "year": "2024",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1179,7 +1180,6 @@
       "Continual Learning"
     ],
     "year": "2023",
-    "recognized": "recognized",
     "modality": [
       "Vision",
       "Language"
@@ -1224,7 +1224,6 @@
       "Generative & Computational Imaging"
     ],
     "year": "2023",
-    "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
@@ -1263,7 +1262,6 @@
       "Continual Learning"
     ],
     "year": "2023",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1296,7 +1294,6 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2023",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1320,7 +1317,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2023",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1354,7 +1350,6 @@
       "Continual Learning"
     ],
     "year": "2023",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1383,7 +1378,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2023",
-    "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
@@ -1416,7 +1410,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2022",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1454,7 +1447,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2022",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1486,7 +1478,6 @@
       "Continual Learning"
     ],
     "year": "2022",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1519,7 +1510,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2022",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1555,7 +1545,6 @@
       "Continual Learning"
     ],
     "year": "2022",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1589,7 +1578,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2022",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1626,7 +1614,6 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2022",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1659,7 +1646,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2022",
-    "recognized": "unrecognized",
     "modality": [
       "Vision",
       "Language"
@@ -1686,7 +1672,6 @@
       "Continual Learning"
     ],
     "year": "2022",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1724,7 +1709,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2021",
-    "recognized": "recognized",
     "modality": [
       "Vision",
       "Language"
@@ -1759,7 +1743,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2021",
-    "recognized": "recognized",
     "modality": [
       "Vision",
       "Language"
@@ -1805,7 +1788,6 @@
       "Embodied & Multimodal AI"
     ],
     "year": "2021",
-    "recognized": "recognized",
     "modality": [
       "Vision",
       "Language"
@@ -1837,7 +1819,6 @@
       "Generative & Computational Imaging"
     ],
     "year": "2021",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1862,7 +1843,6 @@
       "Visual Perception & Recognition"
     ],
     "year": "2021",
-    "recognized": "recognized",
     "modality": [
       "Vision"
     ],
@@ -1903,7 +1883,6 @@
       "Generative & Computational Imaging"
     ],
     "year": "2021",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1938,7 +1917,6 @@
       "Continual Learning"
     ],
     "year": "2021",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1963,7 +1941,6 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2021",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -1992,7 +1969,6 @@
       "AI for Science & Systems"
     ],
     "year": "2021",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],
@@ -2025,7 +2001,6 @@
       "Efficient & Adaptive AI"
     ],
     "year": "2020",
-    "recognized": "recognized",
     "modality": [
       "Vision"
     ],
@@ -2065,7 +2040,6 @@
       "Generative & Computational Imaging"
     ],
     "year": "2020",
-    "recognized": "recognized",
     "modality": [
       "Vision"
     ],
@@ -2093,7 +2067,6 @@
       "Continual Learning"
     ],
     "year": "2020",
-    "recognized": "unrecognized",
     "modality": [
       "Vision"
     ],

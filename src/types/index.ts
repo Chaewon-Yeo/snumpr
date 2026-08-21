@@ -42,6 +42,5 @@ export interface PublicationItem {
   researchTopic: string[];
   year: string;
   modality: string[];
-  recognized: string;
   recognition: string[];
 }

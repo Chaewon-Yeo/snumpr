@@ -28,7 +28,20 @@
 }
 
 .logoWrapper {
+  position: relative;
   margin-right: auto;
+}
+
+.logoWrapper::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: var(--blue);
+  mask: url('/logo.svg') left center / contain no-repeat;
+  -webkit-mask: url('/logo.svg') left center / contain no-repeat;
+  opacity: 0;
+  filter: drop-shadow(0 0 0.6rem var(--color-shadow-soft));
+  transition: opacity 0.3s ease;
 }
 
 .logo {
@@ -38,6 +51,10 @@
   max-width: calc(100vw - 8rem);
   object-fit: contain;
   object-position: left center;
+}
+
+.logoWrapper:hover::after {
+  opacity: 1;
 }
 
 .icons {

@@ -216,7 +216,7 @@ function PublicationFilterController({
 
         return (
           <div key={l} className={styles.filterGroup}>
-            <span className={styles.filterTitle}>{camelToTitle(l)}</span>
+            <span className={styles.filterTitle}>{l === 'researchTopic' ? 'Topic' : camelToTitle(l)}</span>
 
             <div className={styles.customSelectWrapper}>
               <div

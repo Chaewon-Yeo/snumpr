@@ -20,7 +20,7 @@
 }
 
 .years {
-  width: 14rem;
+  width: 12rem;
   position: -webkit-sticky;
   position: sticky;
   top: var(--nav-height);

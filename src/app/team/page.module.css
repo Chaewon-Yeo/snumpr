@@ -133,12 +133,13 @@
     box-shadow 0.2s ease;
 }
 .card:hover {
-  box-shadow: 0 6px 16px var(--color-shadow-faint);
+  box-shadow: 0 0 2rem var(--color-primary-glow);
 }
 
 .card:hover .name,
 .card:hover .position {
   color: var(--blue);
+  text-shadow: 0 0 0.8rem var(--color-primary-glow);
 }
 
 .cardClickable {
@@ -178,7 +179,9 @@
   font-weight: 600;
   margin-bottom: 0.6rem;
   letter-spacing: -0.02rem;
-  transition: color 0.2s ease;
+  transition:
+    color 0.2s ease,
+    text-shadow 0.2s ease;
 }
 
 .position {
@@ -186,7 +189,9 @@
   color: var(--text-gray);
   letter-spacing: 0;
   margin-bottom: 1.2rem;
-  transition: color 0.2s ease;
+  transition:
+    color 0.2s ease,
+    text-shadow 0.2s ease;
 }
 
 .links {

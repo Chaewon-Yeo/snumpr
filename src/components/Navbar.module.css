@@ -40,7 +40,7 @@
   mask: url('/logo.svg') left center / contain no-repeat;
   -webkit-mask: url('/logo.svg') left center / contain no-repeat;
   opacity: 0;
-  filter: drop-shadow(0 0 0.6rem var(--color-shadow-soft));
+  filter: drop-shadow(0 0 0.8rem var(--color-primary-glow));
   transition: opacity 0.3s ease;
 }
 
@@ -51,10 +51,15 @@
   max-width: calc(100vw - 8rem);
   object-fit: contain;
   object-position: left center;
+  transition: opacity 0.3s ease;
 }
 
 .logoWrapper:hover::after {
   opacity: 1;
+}
+
+.logoWrapper:hover .logo {
+  opacity: 0;
 }
 
 .icons {
@@ -97,7 +102,7 @@
 .nav a:hover,
 .nav a.active {
   color: var(--blue);
-  text-shadow: 0 0 0.6rem var(--color-shadow-soft);
+  text-shadow: 0 0 0.8rem var(--color-primary-glow);
 }
 .nav a:hover::after,
 .nav a.active::after {

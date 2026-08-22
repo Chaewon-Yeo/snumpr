@@ -12,7 +12,7 @@
    * ----------------------------------------------------------------------- */
   --color-primary: #0f0f6c; /* SNU Blue */
   --color-primary-accent: #3939f5; /* 하이라이트(살짝 밝은 블루) */
-  --color-primary-glow: rgba(57, 57, 245, 0.4); /* SNU Blue glow */
+  --color-primary-glow: rgba(15, 15, 108, 0.25); /* SNU Blue glow */
 
   /* ---------- Neutrals (Text) ----------------------------------------------
    * 일반 텍스트, 보조 텍스트 색입니다.

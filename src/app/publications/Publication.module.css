@@ -20,7 +20,7 @@
 }
 
 .years {
-  width: 18rem;
+  width: 14rem;
   position: -webkit-sticky;
   position: sticky;
   top: var(--nav-height);
@@ -470,7 +470,6 @@
 
 .yearsWrapper {
   margin-top: 4rem;
-  margin-left: 6rem;
   display: flex;
   flex-direction: column;
   gap: 2.8rem;

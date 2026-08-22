@@ -133,7 +133,7 @@
     box-shadow 0.2s ease;
 }
 .card:hover {
-  box-shadow: 0 0 2rem var(--color-primary-glow);
+  box-shadow: 0 6px 16px var(--color-shadow-faint);
 }
 
 .card:hover .name,
